@@ -1,0 +1,30 @@
+name: Fetch Data and Store
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    
+    - name: Set current time
+      id: set_time
+      run: echo "CURRENT_TIME=$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
+
+    - name: Fetch data from URL
+      run: |
+        current_time=$(TZ='Asia/Shanghai' date +'%Y-%m-%d_%H-%M-%S')
+        curl -o "data_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/rating
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add "data_${{ env.CURRENT_TIME }}.json"
+        git commit -m "Update data.json with latest data"
+        git push
