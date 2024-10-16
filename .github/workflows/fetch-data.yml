@@ -1,8 +1,9 @@
-name: Fetch Data and Store
+name: Fetch Data and Store for Copilot IntelliJ plugin rating
 
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
   fetch-data:
