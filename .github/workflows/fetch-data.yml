@@ -23,6 +23,8 @@ jobs:
         curl -o "data_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/rating
 
     - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
