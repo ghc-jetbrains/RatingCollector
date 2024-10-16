@@ -1,8 +1,8 @@
-name: Fetch Data and Store for Copilot IntelliJ plugin rating
+name: Copilot IntelliJ plugin rating
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 17 * * *'  # Runs every day at 1AM CST (China Standard Time is UTC+8)
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
 
     - name: Fetch data from URL
       run: |
-        curl -o "data_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/rating
+        curl -o "copilot-intellij/data_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/rating
 
     - name: Commit and push changes
       env:
@@ -30,6 +30,6 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add "data_${{ env.CURRENT_TIME }}.json"
+        git add "copilot-intellij/data_${{ env.CURRENT_TIME }}.json"
         git commit -m "Update data.json with latest data"
         git push
