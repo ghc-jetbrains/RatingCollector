@@ -30,8 +30,8 @@ jobs:
 
     - name: Format comments JSON file
       run: |
-      jq '.' "copilot-intellij/rating/data_${{ env.CURRENT_TIME }}.json" > "copilot-intellij/rating/data_${{ env.CURRENT_TIME }}_formatted.json"
-      jq '.' "copilot-intellij/comments/recent_comments_${{ env.CURRENT_TIME }}.json" > "copilot-intellij/comments/recent_comments_${{ env.CURRENT_TIME }}_formatted.json"
+        jq '.' "copilot-intellij/rating/data_${{ env.CURRENT_TIME }}.json" > "copilot-intellij/rating/data_${{ env.CURRENT_TIME }}_formatted.json"
+        jq '.' "copilot-intellij/comments/recent_comments_${{ env.CURRENT_TIME }}.json" > "copilot-intellij/comments/recent_comments_${{ env.CURRENT_TIME }}_formatted.json"
 
     - name: Commit and push changes
       env:
