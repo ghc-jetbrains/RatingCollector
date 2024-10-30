@@ -1,4 +1,4 @@
-name: Copilot IntelliJ plugin rating
+name: Copilot IntelliJ plugin rating and recent comments fetcher
 
 on:
   schedule:
@@ -20,9 +20,13 @@ jobs:
       id: set_time
       run: echo "CURRENT_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
 
-    - name: Fetch data from URL
+    - name: Fetch rating data from URL
       run: |
-        curl -o "copilot-intellij/data_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/rating
+        curl -o "copilot-intellij/rating/data_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/rating
+    
+    - name: Fetch comments data from URL
+      run: |
+        curl -o "copilot-intellij/comments/recent_comments_${{ env.CURRENT_TIME }}.json" https://plugins.jetbrains.com/api/plugins/17718/comments?size=100&page=1
 
     - name: Commit and push changes
       env:
@@ -31,5 +35,5 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add "copilot-intellij/data_${{ env.CURRENT_TIME }}.json"
-        git commit -m "Update data.json with latest data"
+        git commit -m "Upload rating data and recent comments"
         git push
