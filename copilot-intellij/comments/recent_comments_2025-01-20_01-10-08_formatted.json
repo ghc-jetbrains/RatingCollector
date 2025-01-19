@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 111319,
+    "cdate": "1737283526000",
+    "comment": "<p>Auto-complete with non-existent methods is bullshit. The built-in one works better.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "3c179437-44e8-4d24-a8b7-22f6a2897891",
+      "name": "Vladislav Trofimenko",
+      "link": "/author/3c179437-44e8-4d24-a8b7-22f6a2897891",
+      "hubLogin": "slashfast",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/3c179437-44e8-4d24-a8b7-22f6a2897891",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111312,
+    "cdate": "1737227968000",
+    "comment": "<p>Couldn't get it to see the free version of copilot.\ngave up after 20m trying to get it to work.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "d165f336-f5ca-47e7-a429-2a4daa96ae2a",
+      "name": "Jon",
+      "link": "/author/d165f336-f5ca-47e7-a429-2a4daa96ae2a",
+      "hubLogin": "se5a",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d165f336-f5ca-47e7-a429-2a4daa96ae2a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111307,
+    "cdate": "1737189518000",
+    "comment": "<p>If non-English characters exist in the generated content from the code, they will appear as garbled text.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "name": "Kenzson Chang",
+      "link": "/author/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "hubLogin": "kenzson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111306,
+    "cdate": "1737178079000",
+    "comment": "<p>Sign in failed. Reason: Could not log in with device flow on github.com: Request timed out from lsp server, request id: 12, error code: 1001</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "3543be44-9500-4ce6-9f28-ea9019efa598",
+      "name": "yunianshu",
+      "link": "/author/3543be44-9500-4ce6-9f28-ea9019efa598",
+      "hubLogin": "yunianshu",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/3543be44-9500-4ce6-9f28-ea9019efa598",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111305,
+    "cdate": "1737177354000",
+    "comment": "<p>First of all, I am so grateful as a paid user. I don't understand why the comment rating is low, but I have been using it for 10 months, and although it sometimes gives the wrong answer, it is getting more and more perfect. No one can guide me exactly what I need. It is the best among the plugins with similar functions that are currently available.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "664eea87-02a8-48ab-bed4-1be64ce031a9",
+      "name": "개발자도 그리는드로잉",
+      "link": "/author/664eea87-02a8-48ab-bed4-1be64ce031a9",
+      "hubLogin": "mylee96",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/664eea87-02a8-48ab-bed4-1be64ce031a9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111304,
+    "cdate": "1737167821000",
+    "comment": "<p>Update the choose Model option that I should have compared to VS code.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 0,
+    "author": {
+      "id": "92f8b1d2-bf3f-49f0-8d17-ed8d87ad6159",
+      "name": "Tuan Anh Nguyen",
+      "link": "/author/92f8b1d2-bf3f-49f0-8d17-ed8d87ad6159",
+      "hubLogin": "chelseatuananhnd99",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/92f8b1d2-bf3f-49f0-8d17-ed8d87ad6159",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111299,
+    "cdate": "1737156366000",
+    "comment": "<p>Useless compared to VS Code.</p>\n<p>DO NOT INSTALL!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "72bfb661-c0c0-4634-9d9a-83e7c1333b07",
+      "name": "cached",
+      "link": "/author/72bfb661-c0c0-4634-9d9a-83e7c1333b07",
+      "hubLogin": "cached",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/72bfb661-c0c0-4634-9d9a-83e7c1333b07",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111291,
+    "cdate": "1737125663000",
+    "comment": "<p>Works well and greatly boosts my productivity.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "b14951fb-04da-4b2f-a80b-ac2931cb6f0a",
+      "name": "trykozmaksym",
+      "link": "/author/b14951fb-04da-4b2f-a80b-ac2931cb6f0a",
+      "hubLogin": "Maksym_Trykoz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b14951fb-04da-4b2f-a80b-ac2931cb6f0a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111217,
+    "cdate": "1736983191000",
+    "comment": "<p>Absolutely useless in comparison to the VS Code plugin.</p>\n<ul>\n<li>Doesn't tell you what model it's using</li>\n<li>Doesn't allow you to change the model</li>\n<li>Doesn't have the edits capability</li>\n<li>It's far behind Cursor IDE capabilities</li>\n</ul>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "f3d7df32-6b8f-4464-aeda-432cc339f2d9",
+      "name": "leandrotol",
+      "link": "/author/f3d7df32-6b8f-4464-aeda-432cc339f2d9",
+      "hubLogin": "Leandro_Toledo",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f3d7df32-6b8f-4464-aeda-432cc339f2d9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111205,
+    "cdate": "1736957013000",
+    "comment": "<p>Absolutely useless in comparison to the VS Code plugin.</p>\n<p>Doesn't tell you what model it's using, doesn't allow you to change the model, does not have the edits capability, does not have a gigantic list of other features available in other editors. It is pathetic compared to the vs code implementation.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "d2127c49-cd02-4191-ad79-b994d796f6a1",
+      "name": "Andrew McGarrity",
+      "link": "/author/d2127c49-cd02-4191-ad79-b994d796f6a1",
+      "hubLogin": "amcgarrity_rba",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d2127c49-cd02-4191-ad79-b994d796f6a1",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111165,
+    "cdate": "1736892627000",
+    "comment": "<p>No way to use Claude.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "c0bbfa84-03d0-4705-a79b-9a0325b0c529",
+      "name": "yo",
+      "link": "/author/c0bbfa84-03d0-4705-a79b-9a0325b0c529",
+      "hubLogin": "RJ_Smith",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c0bbfa84-03d0-4705-a79b-9a0325b0c529",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111143,
+    "cdate": "1736856575000",
+    "comment": "<p>error processing request null undefined, when you solved it, I will reactivate my subscription</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "f7cd5bc9-dab1-4fc3-9d2f-c03e0a849340",
+      "name": "Emilio Sosa",
+      "link": "/author/f7cd5bc9-dab1-4fc3-9d2f-c03e0a849340",
+      "hubLogin": "emiliosh",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f7cd5bc9-dab1-4fc3-9d2f-c03e0a849340",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111106,
+    "cdate": "1736785424000",
+    "comment": "<p>Github is owned by Microsoft. This is like every other Microsoft product in that it's designed to work well ONLY within Microsoft products. That is totally my opinion in that every Microsoft product I've ever used starting with DOS 6.2, Office, Office 365, etc. Always had features that ONLY worked inside microslop's products. I spent WEEKS on and off trying to figure out why Copilot gave me a error that it couldn't initialize a github login in IntelliJ. Worked great in VSCode (of course). Turns out that I had a setting in my .bashrc to set my proxies, and those proxies included my username / passwords (HTTP://username:password@myproxy.com). Once I removed this from .bashrc -- the plugin works.  ZERO help from the github support page.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "aa8251d0-0e76-4a0e-96a8-a8cd1aab9df5",
+      "name": "Richard Masci",
+      "link": "/author/aa8251d0-0e76-4a0e-96a8-a8cd1aab9df5",
+      "hubLogin": "rmasci",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/aa8251d0-0e76-4a0e-96a8-a8cd1aab9df5",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111095,
+    "cdate": "1736777703000",
+    "comment": "<p>Buggy plugin. Once installed and enabled disables buildin full line completion feature of IntelliJ.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "37c4e1b6-7141-4073-80e0-4efdc2656b90",
+      "name": "Martin Kvapil",
+      "link": "/author/37c4e1b6-7141-4073-80e0-4efdc2656b90",
+      "hubLogin": "Martin.Kvapil",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/37c4e1b6-7141-4073-80e0-4efdc2656b90",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111092,
+    "cdate": "1736775980000",
+    "comment": "<p>Terrible. The GitHub Copilot in the VS2022 is really better.\nOn Rider the copilot looks like to \"saving\" tickets. Really awful.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "663045a6-e7a7-46d6-b3c0-8f89562aeba5",
+      "name": "Helio Passarelli",
+      "link": "/author/663045a6-e7a7-46d6-b3c0-8f89562aeba5",
+      "hubLogin": "heliopsborges",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/663045a6-e7a7-46d6-b3c0-8f89562aeba5",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111085,
+    "cdate": "1736759711000",
+    "comment": "<p>Broke the editor completely. Backspace &amp; enter not working at all with this version.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "490c50f4-7a67-4f76-a9ad-bc9760b54646",
+      "name": "magne.helleborg",
+      "link": "/author/490c50f4-7a67-4f76-a9ad-bc9760b54646",
+      "hubLogin": "Magne_Helleborg",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/490c50f4-7a67-4f76-a9ad-bc9760b54646",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111083,
+    "cdate": "1736757207000",
+    "comment": "<p>How the fuck can you release a version that broke \"enter\" and arrows on the keyboard ?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "0f56c685-491f-4c59-9dd5-9dd897090ebe",
+      "name": "Romain Laneuville",
+      "link": "/author/0f56c685-491f-4c59-9dd5-9dd897090ebe",
+      "hubLogin": "romain.laneuville",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0f56c685-491f-4c59-9dd5-9dd897090ebe",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111082,
+    "cdate": "1736756220000",
+    "comment": "<p>The latest update made PyCharm 2024.3.1.1 unusable by breaking many keys. Copilot plugin receives frequent updates, but they introduce new bugs rather than enhancing features or addressing existing issues. Apparently the team responsible for JB plugin don't have a QA process? May be it's a one man team?</p>\n<p>Currently, GH Copilot offers the best auto-complete, but given the current trajectory of LLMs, eventually it will lose its competitive advantage over auto-complete, likely resulting in diminished adoption among JB IDE users who continue to get second class service from Github.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "a3fc98da-69cb-4fd0-9596-94056b04e1bd",
+      "name": "Evren Ozkan",
+      "link": "/author/a3fc98da-69cb-4fd0-9596-94056b04e1bd",
+      "hubLogin": "evrenozkan",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a3fc98da-69cb-4fd0-9596-94056b04e1bd",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111078,
+    "cdate": "1736754693000",
+    "comment": "<p>This plugin completely broke my IDE for two days, until I was able to identify the issue. This costs me money!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "74f2d4ee-6fd5-4107-8ed3-1618e77d43d9",
+      "name": "Na'aman Hirschfeld",
+      "link": "/author/74f2d4ee-6fd5-4107-8ed3-1618e77d43d9",
+      "hubLogin": "Goldziher",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/74f2d4ee-6fd5-4107-8ed3-1618e77d43d9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111069,
+    "cdate": "1736748025000",
+    "comment": "<p>Same here - latest version breaks keyboard shortcuts and keys. Needs to be reverted.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "ad303f46-2744-4b91-b690-85f5d0c87e3d",
+      "name": "marek.bejda",
+      "link": "/author/ad303f46-2744-4b91-b690-85f5d0c87e3d",
+      "hubLogin": "Marek_Bejda",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ad303f46-2744-4b91-b690-85f5d0c87e3d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111055,
+    "cdate": "1736690150000",
+    "comment": "<p>Since version 1.5.30.8497-242-nightly (and the previous one), GitHub Copilot breaks the keyboard. I cannot use the following keys anymore:</p>\n<ul>\n<li><code>backticks</code></li>\n<li>caret ^</li>\n<li>backspace</li>\n<li>enter</li>\n<li>tab</li>\n<li>all four arrow keys</li>\n<li>page up, page down</li>\n</ul>\n<p>This makes IntelliJ completely unusable. The only workaround I know of is disabling Copilot altogether.</p>\n<p>Also, it lacks several features compared to the VS Code extension, including:</p>\n<ul>\n<li>inserting line breaks in the GitHub Copilot Chat window (this had worked previously)</li>\n<li>show more in-line suggestions (it always says “no more suggestions to show”)</li>\n<li>using the Claude model</li>\n</ul>\n<p>Using GitHub Copilot in IntelliJ (instead of VS Code) really makes you feel like a second-class user.</p>\n<p>Apart from the catastrophic keyboard bug and the lack of features that exist in VS Code, Copilot's suggestions were often (although certainly not always) useful. It's basically an advanced auto-complete feature, i.e. it can't “think for you” but it does speed up writing non-complex code snippets. However, you should never trust it to write code that you struggle to write on your own, as it can bring in subtle bugs that may be hard to detect.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 3,
+    "author": {
+      "id": "0de39f65-4726-4e62-b0b2-fa45dab98bb4",
+      "name": "Gustav Blaß",
+      "link": "/author/0de39f65-4726-4e62-b0b2-fa45dab98bb4",
+      "hubLogin": "gustav.blass",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0de39f65-4726-4e62-b0b2-fa45dab98bb4",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 14,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111053,
+    "cdate": "1736662502000",
+    "comment": "<p>The issue with the delete key not working has not been fixed in version 1.5.30.8497</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "name": "Kenzson Chang",
+      "link": "/author/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "hubLogin": "kenzson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111052,
+    "cdate": "1736662267000",
+    "comment": "<p>What's the point of using GitHub Copilot if I have to pay the same but get less than using VS Code? Obviously I do not want to change my whole dev environment setup, would rather look for other AI assistants.\nPlus the plugin itself quite lags while using. Need to improve its usability.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "b539bfed-743f-4769-b3d5-ce680c900afe",
+      "name": "Kuyho Chung",
+      "link": "/author/b539bfed-743f-4769-b3d5-ce680c900afe",
+      "hubLogin": "kchung1995",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b539bfed-743f-4769-b3d5-ce680c900afe",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111045,
+    "cdate": "1736622579000",
+    "comment": "<p>in latest Nightly build from 11.1.2025 (1.5.30.8495-231-nightly) the Keyboard stoped working in Rider. (solution: downgrade)</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "73ba6483-78bd-4f76-8c10-a04b644958e8",
+      "name": "Michal Krchňavý",
+      "link": "/author/73ba6483-78bd-4f76-8c10-a04b644958e8",
+      "hubLogin": "krchnavy",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/73ba6483-78bd-4f76-8c10-a04b644958e8",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111043,
+    "cdate": "1736616174000",
+    "comment": "<p>The quality of integration with IDE is low, and it's impossible to choose Claude. Don't waste your time and money on Copilot if you use JetBrains IDEs.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "438dcea5-0deb-4f7a-afe5-91d0b1492b79",
+      "name": "Ivan Kharlamov",
+      "link": "/author/438dcea5-0deb-4f7a-afe5-91d0b1492b79",
+      "hubLogin": "thepapermen",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/438dcea5-0deb-4f7a-afe5-91d0b1492b79",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111038,
+    "cdate": "1736605643000",
+    "comment": "<p>Keyboard stop working in pycharm ide!!!!!!!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "a4b6d18a-1769-4c09-9332-6dc4c69e7e43",
+      "name": "Alex",
+      "link": "/author/a4b6d18a-1769-4c09-9332-6dc4c69e7e43",
+      "hubLogin": "appagg",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a4b6d18a-1769-4c09-9332-6dc4c69e7e43",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111035,
+    "cdate": "1736594754000",
+    "comment": "<p>When the plugin breaks basic keyboard functionality like backspace in the editor, it is not worth even one star, alas I can't give zero stars. How can you even dare to release this shit to paying customers?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "9d202a05-9c1d-4563-a487-8c266a35548d",
+      "name": "Mikko Ville Valjento",
+      "link": "/author/9d202a05-9c1d-4563-a487-8c266a35548d",
+      "hubLogin": "mikkis",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/9d202a05-9c1d-4563-a487-8c266a35548d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 6,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111030,
+    "cdate": "1736571675000",
+    "comment": "<p>1.5.30.8495 make backspace &amp; del key not woking</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "name": "Kenzson Chang",
+      "link": "/author/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "hubLogin": "kenzson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 111011,
+    "cdate": "1736508840000",
+    "comment": "<p>Please re-add the ability to choose a model.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "6daa2dc4-cfa9-4932-95a5-2faf08fa3ac2",
+      "name": "Andrey Luzin",
+      "link": "/author/6daa2dc4-cfa9-4932-95a5-2faf08fa3ac2",
+      "hubLogin": "andrey.luzin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6daa2dc4-cfa9-4932-95a5-2faf08fa3ac2",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 7,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110963,
+    "cdate": "1736418349000",
+    "comment": "<p>it's good, but when using the inline chat there is no keymap for accepting suggestion. so you still need to leave your keyboard and use the mouse which feels absolutly insane to me. it has some keymaps but is missing the one that is by far the most important.</p>\n<p>even better would be if the inline chat gave it's suggestion directly in the code as a diff or similar rather than its own pop-up window.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "ad6aafa4-ae72-429a-aa2e-7cccc9862d7d",
+      "name": "Anonymous",
+      "link": "/author/ad6aafa4-ae72-429a-aa2e-7cccc9862d7d",
+      "hubLogin": "l5LBOKLG",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ad6aafa4-ae72-429a-aa2e-7cccc9862d7d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110956,
+    "cdate": "1736400040000",
+    "comment": "<p>Is there any plans to make the option to select the models available like VS Code does?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "6a4e3083-3bad-45b2-b98f-054068d00c0c",
+      "name": "bharatgeleda",
+      "link": "/author/6a4e3083-3bad-45b2-b98f-054068d00c0c",
+      "hubLogin": "Bharat_Geleda",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6a4e3083-3bad-45b2-b98f-054068d00c0c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 16,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110907,
+    "cdate": "1736347751000",
+    "comment": "<p>It is almost useless! A few months ago it suddenly started giving bad and wrong answers. When you say to it that the suggestion is not working, it just repeats itself again and again. Not worth paying for</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "1484eded-4c51-4d40-b6dc-40873915a5cb",
+      "name": "Theodor Kier",
+      "link": "/author/1484eded-4c51-4d40-b6dc-40873915a5cb",
+      "hubLogin": "thki",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1484eded-4c51-4d40-b6dc-40873915a5cb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110894,
+    "cdate": "1736339572000",
+    "comment": "<p>我在设置页面中已经设置成为了中文，但是每次开启对话，他都是英文的，而且这里的插件相比VS Code里面的插件感觉有很大的差别，没有在VS Code里面那么智能，都是花了钱的，为什么体验反而还不一样了？在这里的插件还不支持切换AI 模型。吃相也太难看了！</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "626fbbcd-d4f0-4d97-9c00-c3cae2a9bdef",
+      "name": "arvin",
+      "link": "/author/626fbbcd-d4f0-4d97-9c00-c3cae2a9bdef",
+      "hubLogin": "Arvin_Tang",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/626fbbcd-d4f0-4d97-9c00-c3cae2a9bdef",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110860,
+    "cdate": "1736282230000",
+    "comment": "<p>Where is the Claude support?!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "353663d6-75eb-414d-8734-0f7565e87a52",
+      "name": "javid.gulamaliyev",
+      "link": "/author/353663d6-75eb-414d-8734-0f7565e87a52",
+      "hubLogin": "Javid_Gulamaliyev",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/353663d6-75eb-414d-8734-0f7565e87a52",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 9,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110858,
+    "cdate": "1736280416000",
+    "comment": "<p>I made a subscription just to work with Claude but somehow in Jetbrains IDEs the plugin does not have the feature to switch models as it exists in VS Code. I don't want to use VS Code and I thought GitHub pushes it's copilot in all platforms and not just in VS Code IDE.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "c20f00a3-e94c-4ea9-8fd9-303107ac3db0",
+      "name": "Seif Ibrahim",
+      "link": "/author/c20f00a3-e94c-4ea9-8fd9-303107ac3db0",
+      "hubLogin": "iseif",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c20f00a3-e94c-4ea9-8fd9-303107ac3db0",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 11,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110856,
+    "cdate": "1736276252000",
+    "comment": "<p>Why did it get so bad? Please fix it up and make it as good as Cursor is. Also allow model selection.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "5ff8f481-b2c5-4522-bb59-a0380e118444",
+      "name": "Maximilian Keppeler",
+      "link": "/author/5ff8f481-b2c5-4522-bb59-a0380e118444",
+      "hubLogin": "maxkeppeler",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/5ff8f481-b2c5-4522-bb59-a0380e118444",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 6,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110842,
+    "cdate": "1736258806000",
+    "comment": "<p>No model selection...</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "4dc450ef-4e39-4bb7-b3d0-0437705c0629",
+      "name": "Alexander Ruch",
+      "link": "/author/4dc450ef-4e39-4bb7-b3d0-0437705c0629",
+      "hubLogin": "alexander.ruch",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/4dc450ef-4e39-4bb7-b3d0-0437705c0629",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110818,
+    "cdate": "1736227740000",
+    "comment": "<p>After enabling Ideavim plugin, backspace is not working in online chat. This problem has existed for a long time. The team is updating every night without ensuring the basic user experience.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "b39791af-4671-4a27-8c5e-c59cc21e4b8a",
+      "name": "BoJack Manan",
+      "link": "/author/b39791af-4671-4a27-8c5e-c59cc21e4b8a",
+      "hubLogin": "Jacky_M",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b39791af-4671-4a27-8c5e-c59cc21e4b8a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110801,
+    "cdate": "1736191713000",
+    "comment": "<p>Please add the option to switch models!!!!</p>\n<p>Why I can not try different models like it can be done in VS?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "1f7942b8-21a8-4fee-b2c4-dceaf766d573",
+      "name": "Volodymyr Matiievskyi",
+      "link": "/author/1f7942b8-21a8-4fee-b2c4-dceaf766d573",
+      "hubLogin": "matievsky",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1f7942b8-21a8-4fee-b2c4-dceaf766d573",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 9,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110789,
+    "cdate": "1736171001000",
+    "comment": "<p>Today, I got an email from my organization that Claude is available for our GitHub Copilot subscription. I was suprised to find that this plugin doesn't seem to support it like VS Code does.</p>\n<p>Please add the option to switch models</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "d744784a-2207-4547-a0ad-08c67274227f",
+      "name": "roelof.van.der.vaart",
+      "link": "/author/d744784a-2207-4547-a0ad-08c67274227f",
+      "hubLogin": "Roelof_van_der_Vaart",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d744784a-2207-4547-a0ad-08c67274227f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110769,
+    "cdate": "1736149364000",
+    "comment": "<p>We need Claude.\nChinese language support needs to be fixed.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "96ad5776-41dc-475a-9a88-cc247b0ef4d2",
+      "name": "SUN CHEN",
+      "link": "/author/96ad5776-41dc-475a-9a88-cc247b0ef4d2",
+      "hubLogin": "Alexander1Ming",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/96ad5776-41dc-475a-9a88-cc247b0ef4d2",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110749,
+    "cdate": "1736092155000",
+    "comment": "<p>Where claude support ?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "41e8dea0-46eb-4086-aad7-eca20d7c0855",
+      "name": "Євгеній Володимирович Шершень",
+      "link": "/author/41e8dea0-46eb-4086-aad7-eca20d7c0855",
+      "hubLogin": "shershen.yv",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/41e8dea0-46eb-4086-aad7-eca20d7c0855",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110733,
+    "cdate": "1736014966000",
+    "comment": "<p>no claude support.. cancelling subscription and sticking with ClaudeMind which is a great plugin... Copilot with gpt-4 is guaranteed to destroy your code base</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "8de46c02-c326-46e4-a964-6bda53605aa9",
+      "name": "lance fallon",
+      "link": "/author/8de46c02-c326-46e4-a964-6bda53605aa9",
+      "hubLogin": "lance.fallon",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8de46c02-c326-46e4-a964-6bda53605aa9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110721,
+    "cdate": "1735990889000",
+    "comment": "<p>In Intellij 2024.3.1.1 The copilot stops code completions after about 5 minutes or so after start. I have to restart the IntelliJ to get it working again.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "24b015d5-05cb-4f54-86c8-f7913e9a07ec",
+      "name": "saeed Re",
+      "link": "/author/24b015d5-05cb-4f54-86c8-f7913e9a07ec",
+      "hubLogin": "Saeed_Re",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/24b015d5-05cb-4f54-86c8-f7913e9a07ec",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110706,
+    "cdate": "1735926351000",
+    "comment": "<p>Time saver. Very efficient at code completion, and even at non-trivial code generation, if you take some time to craft a nice prompt.\nCan't figure out the weak reviews. And for the lack of other models choice, my understanding is that it's a version of ChatGPT optmized for code, and built with Github.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "6640be5a-2131-45bd-ba83-30564b6dfc40",
+      "name": "H P",
+      "link": "/author/6640be5a-2131-45bd-ba83-30564b6dfc40",
+      "hubLogin": "p.h",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6640be5a-2131-45bd-ba83-30564b6dfc40",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110678,
+    "cdate": "1735883130000",
+    "comment": "<p>Sign in failed. Reason: Request signInInitiate failed with message: Request to  /github.com/login/device/code&gt; timed out after 30000ms, request id: 59, error code: -32603</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "4b43955c-8b08-49be-8c91-b1cb0150d79a",
+      "name": "solocy",
+      "link": "/author/4b43955c-8b08-49be-8c91-b1cb0150d79a",
+      "hubLogin": "solocy",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/4b43955c-8b08-49be-8c91-b1cb0150d79a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110677,
+    "cdate": "1735879297000",
+    "comment": "<p>The best AI plugin for IntelliJ IDEA</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "38e87bf9-d36d-4550-b70d-a8877fbdee12",
+      "name": "Evan Rohan",
+      "link": "/author/38e87bf9-d36d-4550-b70d-a8877fbdee12",
+      "hubLogin": "Evan_Rohan",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/38e87bf9-d36d-4550-b70d-a8877fbdee12",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 2
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110669,
+    "cdate": "1735873522000",
+    "comment": "<p>为什么登录失败，之前都没有这样的\nWhy did the login fail? It wasn't like this before.\n【Sign in failed. Reason: Request signInInitiate failed with message】</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "91623ab2-8e36-438c-8932-9fd73839fbd6",
+      "name": "XiaoBao Wei",
+      "link": "/author/91623ab2-8e36-438c-8932-9fd73839fbd6",
+      "hubLogin": "weiyiv",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/91623ab2-8e36-438c-8932-9fd73839fbd6",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110668,
+    "cdate": "1735873522000",
+    "comment": "<p>为什么登录失败，之前都没有这样的\nWhy did the login fail? It wasn't like this before.\n【Sign in failed. Reason: Request signInInitiate failed with message】</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "91623ab2-8e36-438c-8932-9fd73839fbd6",
+      "name": "XiaoBao Wei",
+      "link": "/author/91623ab2-8e36-438c-8932-9fd73839fbd6",
+      "hubLogin": "weiyiv",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/91623ab2-8e36-438c-8932-9fd73839fbd6",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 110660,
+    "cdate": "1735858853000",
+    "comment": "<p>It would be great to have the ability to select the model (e.g., Claude-Sonet 3.5) directly within the chat. As a Pro user, I primarily use Copilot in Rider, and this feature would significantly enhance the experience. I hope this can be prioritized in the plugin roadmap. After reading through other reviews, it seems I’m not the only one asking for support to choose the model. Please consider addressing this in future updates.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 0,
+    "author": {
+      "id": "d04e6926-2050-4c12-a7dc-b471eb22bd24",
+      "name": "Alaeddine Gallas",
+      "link": "/author/d04e6926-2050-4c12-a7dc-b471eb22bd24",
+      "hubLogin": "gallas.aladdin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d04e6926-2050-4c12-a7dc-b471eb22bd24",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  }
+]
