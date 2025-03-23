@@ -1,0 +1,1303 @@
+[
+  {
+    "id": 114522,
+    "cdate": "1742704943000",
+    "comment": "<p>Apply Next Line of Complation to Edtor throw errors , My idea version is 2024.3.4.1 or 2024.3.5</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "d003030b-bd97-4725-b114-f57d45a52bf3",
+      "name": "ricoyu520",
+      "link": "/author/d003030b-bd97-4725-b114-f57d45a52bf3",
+      "hubLogin": "俞_雪华",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d003030b-bd97-4725-b114-f57d45a52bf3",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114511,
+    "cdate": "1742702859000",
+    "comment": "<p>中文的行内代码补全乱码，并且我已经升级到2024.3.6</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 0,
+    "author": {
+      "id": "63c37299-bfdd-4e0b-bca6-b56f25e4dc8a",
+      "name": "learngenius",
+      "link": "/author/63c37299-bfdd-4e0b-bca6-b56f25e4dc8a",
+      "hubLogin": "黎_恩瑜",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/63c37299-bfdd-4e0b-bca6-b56f25e4dc8a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114498,
+    "cdate": "1742695096000",
+    "comment": "<p>Please fix the same problem of garbled code in Chinese completion in Rider as soon as possible</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 1,
+    "author": {
+      "id": "74716b53-d5da-41e4-b505-e28ba947b50b",
+      "name": "Liu Ran",
+      "link": "/author/74716b53-d5da-41e4-b505-e28ba947b50b",
+      "hubLogin": "coding-pz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/74716b53-d5da-41e4-b505-e28ba947b50b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114482,
+    "cdate": "1742654989000",
+    "comment": "<p>I had to use 35.242 version in Inteliij IDEA. When you will fix inline completion? LOL</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "f2cc5efc-d295-4d1a-9366-6a611d960628",
+      "name": "Andrei Karanko",
+      "link": "/author/f2cc5efc-d295-4d1a-9366-6a611d960628",
+      "hubLogin": "andr.karanko",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f2cc5efc-d295-4d1a-9366-6a611d960628",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114458,
+    "cdate": "1742602893000",
+    "comment": "<p>♦️☠️♦️</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "91c0f209-95f6-4520-9286-4f1d292be77e",
+      "name": "Anik Roy",
+      "link": "/author/91c0f209-95f6-4520-9286-4f1d292be77e",
+      "hubLogin": "anik101532",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/91c0f209-95f6-4520-9286-4f1d292be77e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114444,
+    "cdate": "1742581966000",
+    "comment": "<p>I can't use the plugin as long as I can't write multiple lines\nI have reported this long ago.</p>\n<p>Make support for shift+enter</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "33c0ebae-d958-4f4f-b1e6-df062739e664",
+      "name": "Martin Herløv Andersen",
+      "link": "/author/33c0ebae-d958-4f4f-b1e6-df062739e664",
+      "hubLogin": "maa",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/33c0ebae-d958-4f4f-b1e6-df062739e664",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114425,
+    "cdate": "1742568105000",
+    "comment": "<p>Really pleased to eventually see Copilot Edits in this plugin! That's super cool.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "5197a370-acd3-4b4d-822f-056e55c468d1",
+      "name": "Arnaud Opalvens",
+      "link": "/author/5197a370-acd3-4b4d-822f-056e55c468d1",
+      "hubLogin": "arnaud.opalvens",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/5197a370-acd3-4b4d-822f-056e55c468d1",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114400,
+    "cdate": "1742560666000",
+    "comment": "<p>Copilot Edits IS COOL! THANK U!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "name": "Kenzson Chang",
+      "link": "/author/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "hubLogin": "kenzson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114390,
+    "cdate": "1742552134000",
+    "comment": "<p>Please, add the feature to drag &amp; drog files into context getting them from project treeview or tab caption (like for VS Code).</p>\n<p>Thank you!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "36033f5f-3a7f-4ca9-ab1e-7288c1276037",
+      "name": "Antonio Petricca",
+      "link": "/author/36033f5f-3a7f-4ca9-ab1e-7288c1276037",
+      "hubLogin": "antonio.petricca",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/36033f5f-3a7f-4ca9-ab1e-7288c1276037",
+      "personalVendorId": 5915,
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114357,
+    "cdate": "1742526751000",
+    "comment": "<p>Hi All!</p>\n<p>I have using GitHub Copilot plugin on JetBrains' Products for a long time now. I have always faced an issue of the plugin stopped working abruptly. I noticed that, it happens because apparently there's an update for the plugin which has not been installed.</p>\n<p>Please fix this JetBrains!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "6bfd27b1-0cee-41d7-9020-b198f65d730f",
+      "name": "tanmaysm1711",
+      "link": "/author/6bfd27b1-0cee-41d7-9020-b198f65d730f",
+      "hubLogin": "Tanmay_Singhania",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6bfd27b1-0cee-41d7-9020-b198f65d730f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114333,
+    "cdate": "1742516666000",
+    "comment": "<p>I'm experiencing an authorization issue with GitHub Copilot in JetBrains Rider. Despite reinstalling the plugin and ensuring my GitHub account is connected, Copilot remains unavailable. Any solutions?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 1,
+    "author": {
+      "id": "b378b36b-76d2-404a-ace2-2a81745a416d",
+      "name": "Максим Палій",
+      "link": "/author/b378b36b-76d2-404a-ace2-2a81745a416d",
+      "hubLogin": "makspalij1",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b378b36b-76d2-404a-ace2-2a81745a416d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114331,
+    "cdate": "1742515073000",
+    "comment": "<p>Appreciate that this plugin is finally getting some attention after being ignored for what seems like years.   All the new models are great and I was very excited about Copilot edits - which would be awesome if it worked like it does in Visual Studio.  However, it always fails to find the file (sometimes it has the correct filename, mostly it duplicates the name and sometimes it just invents names).  The error is \"Failed to find file:///c:/FILENAME with status notfound.\"  I would report this to bug tracker but the link goes to generic GitHub support and there is no link there to any bug tracker or anything.  At least the project is actively being worked on now, hopefully the edit feature gets better over time.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 1,
+    "author": {
+      "id": "b4a15f31-7aa8-4b03-8251-2edcef5fa423",
+      "name": "Kristian Erickson",
+      "link": "/author/b4a15f31-7aa8-4b03-8251-2edcef5fa423",
+      "hubLogin": "kris.4",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b4a15f31-7aa8-4b03-8251-2edcef5fa423",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114325,
+    "cdate": "1742507732000",
+    "comment": "<p>Nice update with Copilot Edits. Thanks, Copilot team!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "1baadfe9-8476-4941-b6c7-9bd6cbb35eee",
+      "name": "cmfox0405",
+      "link": "/author/1baadfe9-8476-4941-b6c7-9bd6cbb35eee",
+      "hubLogin": "Eugene_Yurchenko",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1baadfe9-8476-4941-b6c7-9bd6cbb35eee",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114301,
+    "cdate": "1742484230000",
+    "comment": "<p>github copilot pycharm An error occurred shile fetching the completions. please try again.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "0f5d95b3-be6e-414c-b7fe-8984541f1be5",
+      "name": "Daniel Avdar",
+      "link": "/author/0f5d95b3-be6e-414c-b7fe-8984541f1be5",
+      "hubLogin": "DanielAvdar",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0f5d95b3-be6e-414c-b7fe-8984541f1be5",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114299,
+    "cdate": "1742480624000",
+    "comment": "<p>This is so frustrating. First I was having issues where it would tell me I am not authorized and clicking button to authorize would not do anything. Re-logging into Github fixed that, but for the past number of versions clicking the toolbar button for the Copilot Chat Window does not always open a panel and when it does the window is blank. Unusable currently</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "d7009eaa-3d4d-4632-a113-1783daa305c5",
+      "name": "roger cormier",
+      "link": "/author/d7009eaa-3d4d-4632-a113-1783daa305c5",
+      "hubLogin": "rogernc",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d7009eaa-3d4d-4632-a113-1783daa305c5",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114273,
+    "cdate": "1742465096000",
+    "comment": "<p>Junior dev here. I've evaluated the free version on a Spring Boot project which was pretty good. I used both auto completion and chat features. It correctly generated few PL/SQL scripts based on my requirement and did a code review and gave me actually helpful suggestions on java source files while referring to the dependent classes without needing to specifically to link them. I used the Claude 3.5 Sonnet (preview) model.</p>\n<p>Question before subscribing: Does the paid version support Claude 3.7 Sonnet?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "8a072091-c800-467a-8b20-1f8db3005469",
+      "name": "Dushan Nanayakkara",
+      "link": "/author/8a072091-c800-467a-8b20-1f8db3005469",
+      "hubLogin": "dushanz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8a072091-c800-467a-8b20-1f8db3005469",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114270,
+    "cdate": "1742459565000",
+    "comment": "<p>Its been broken for me since yesterday. the plugin shows authorize button but disabled and doesn't react to clicks.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "c933c9ae-ed60-46e3-91fe-86fdf6638fce",
+      "name": "Dione Domingo",
+      "link": "/author/c933c9ae-ed60-46e3-91fe-86fdf6638fce",
+      "hubLogin": "dionedomingo",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c933c9ae-ed60-46e3-91fe-86fdf6638fce",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114269,
+    "cdate": "1742458920000",
+    "comment": "<p>无法加载插件描述符\nUnable to load plugin descriptor</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "c6d33d39-ed1f-4bc8-ae16-b17fd1f15840",
+      "name": "simg",
+      "link": "/author/c6d33d39-ed1f-4bc8-ae16-b17fd1f15840",
+      "hubLogin": "simg",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c6d33d39-ed1f-4bc8-ae16-b17fd1f15840",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114249,
+    "cdate": "1742431691000",
+    "comment": "<p>When will we having agent mode in intellij, just like vs code?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "b140562a-1a9a-4354-b9ef-91ab491b0fdb",
+      "name": "muhammad.younus",
+      "link": "/author/b140562a-1a9a-4354-b9ef-91ab491b0fdb",
+      "hubLogin": "Muhammad_Younus",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b140562a-1a9a-4354-b9ef-91ab491b0fdb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114208,
+    "cdate": "1742373420000",
+    "comment": "<p>Prety cool. Would be great if we could add custom generation prompt for the commit messages like we can with VS Code thought.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "bd034908-8c35-451a-b257-aba33bd882e5",
+      "name": "mathis.gauthey",
+      "link": "/author/bd034908-8c35-451a-b257-aba33bd882e5",
+      "hubLogin": "Mathis_Gauthey",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/bd034908-8c35-451a-b257-aba33bd882e5",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114197,
+    "cdate": "1742356531000",
+    "comment": "<p>Finally, in the version of IDEA 2024.3.5, the problem of garbled characters in Chinese completion has been fixed</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "name": "FaqWang",
+      "link": "/author/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "hubLogin": "fiswonder",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114189,
+    "cdate": "1742344016000",
+    "comment": "<p>Finally, in the version of IDEA 2024.3.5, the problem of garbled characters in Chinese completion has been fixed</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "74716b53-d5da-41e4-b505-e28ba947b50b",
+      "name": "Liu Ran",
+      "link": "/author/74716b53-d5da-41e4-b505-e28ba947b50b",
+      "hubLogin": "coding-pz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/74716b53-d5da-41e4-b505-e28ba947b50b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114131,
+    "cdate": "1742280230000",
+    "comment": "<p>中文提示乱码 blod:<a href=\"https://github.com/user-attachments/assets/360b6917-5d45-4e09-a96c-62a0e247fb83\">https://github.com/user-attachments/assets/360b6917-5d45-4e09-a96c-62a0e247fb83</a></p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "e817cc8c-f5f8-4a06-8596-bdd0d247a6e8",
+      "name": "wxyrrcj",
+      "link": "/author/e817cc8c-f5f8-4a06-8596-bdd0d247a6e8",
+      "hubLogin": "w_xy.kyyx",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e817cc8c-f5f8-4a06-8596-bdd0d247a6e8",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114106,
+    "cdate": "1742238821000",
+    "comment": "<p>I cannot setup it with Organization Copilot access. There is no way of providing Organization url to github copilot. It makes it not usable at all in Rider.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "1efe39c8-b95d-46f1-8f04-575748b6bf03",
+      "name": "tomek.jurkowski",
+      "link": "/author/1efe39c8-b95d-46f1-8f04-575748b6bf03",
+      "hubLogin": "Tomasz_Jurkowski",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1efe39c8-b95d-46f1-8f04-575748b6bf03",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114102,
+    "cdate": "1742233603000",
+    "comment": "<p>This is so stupid, I can't replace github user which I incidentally set in my InteliJ. I would never use it privately, my company forces me, it is just annoying.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "2875e6ef-a67c-4e56-a353-11203425fac8",
+      "name": "Arekkusu B",
+      "link": "/author/2875e6ef-a67c-4e56-a353-11203425fac8",
+      "hubLogin": "aleksandar.balaban",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2875e6ef-a67c-4e56-a353-11203425fac8",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114063,
+    "cdate": "1742206373000",
+    "comment": "<p>I used the login in with SSO of my Organization and i am logged in and authorized but when i open the copilot window it says i have to login. I have tried to logout and login again multiple times but it is just not working. In settings it says i am logged in. All of my collegues have the same issue. Please fix this</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "cf6890ec-bce2-4065-823c-bf08a1bebb86",
+      "name": "johannes.aschenbrenner",
+      "link": "/author/cf6890ec-bce2-4065-823c-bf08a1bebb86",
+      "hubLogin": "Johannes_Aschenbrenner",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/cf6890ec-bce2-4065-823c-bf08a1bebb86",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114060,
+    "cdate": "1742203626000",
+    "comment": "<p>Hurry up and bring all the features of VSCode over!!! Stop treating us differently!!!\nAfter updating to Copilot version: 1.5.38-243\nPyCharm Professional: 2024.3.4 (243.25659.43)\nI can't get code completion anymore, fix the bugs already, why wait for JetBrains to update? Just roll back to the old version if necessary.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "9b109f4b-2cae-4c63-a217-731eaa9f09d6",
+      "name": "41473909",
+      "link": "/author/9b109f4b-2cae-4c63-a217-731eaa9f09d6",
+      "hubLogin": "炯炯_骆",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/9b109f4b-2cae-4c63-a217-731eaa9f09d6",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114051,
+    "cdate": "1742197526000",
+    "comment": "<p>When to fix the garbled characters when completing Chinese, it's really annoying</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "33b0ecf1-6ba1-41ab-90b0-d1c401fd915d",
+      "name": "Jarl Zhang",
+      "link": "/author/33b0ecf1-6ba1-41ab-90b0-d1c401fd915d",
+      "hubLogin": "zhangjiahao123456",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/33b0ecf1-6ba1-41ab-90b0-d1c401fd915d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114033,
+    "cdate": "1742179169000",
+    "comment": "<p>When to fix the garbled characters when completing Chinese, it's really annoying</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "a3b35e58-0c73-4f43-bd8d-5417e154c036",
+      "name": "Justin",
+      "link": "/author/a3b35e58-0c73-4f43-bd8d-5417e154c036",
+      "hubLogin": "njx1994",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a3b35e58-0c73-4f43-bd8d-5417e154c036",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114031,
+    "cdate": "1742177856000",
+    "comment": "<p>When to fix the garbled characters when completing Chinese, it's really annoying\nIn Build #PS-243.25659.45, built on February 27, 2025.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 2,
+    "author": {
+      "id": "8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "name": "FaqWang",
+      "link": "/author/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "hubLogin": "fiswonder",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 114021,
+    "cdate": "1742172339000",
+    "comment": "<p>Useful, but without Agent and Edits, I have to use VS Code instead for AI features and then switch back to IntelliJ to continue development.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "c328519e-a9d4-4e77-bd5e-afe9fb20d1ed",
+      "name": "accounts",
+      "link": "/author/c328519e-a9d4-4e77-bd5e-afe9fb20d1ed",
+      "hubLogin": "Dmitry_Matyukhin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c328519e-a9d4-4e77-bd5e-afe9fb20d1ed",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113977,
+    "cdate": "1741992017000",
+    "comment": "<p>copilot suggest trash code</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "e5769b15-84e4-4842-96ce-98c7819b19e8",
+      "name": "Dmitriy Brolnickij",
+      "link": "/author/e5769b15-84e4-4842-96ce-98c7819b19e8",
+      "hubLogin": "brolnickij",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e5769b15-84e4-4842-96ce-98c7819b19e8",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113954,
+    "cdate": "1741961265000",
+    "comment": "<p>where is the agent? we need agent urgent! pls, provide the same features as there is in vscode</p>\n<p>autosuggestion is not good, too simple, make it good as it is in vscode</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "a1130732-b51d-4907-bae6-782b9cfeab4d",
+      "name": "Rodrigo Rodrigues",
+      "link": "/author/a1130732-b51d-4907-bae6-782b9cfeab4d",
+      "hubLogin": "rodrigorodrigues",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a1130732-b51d-4907-bae6-782b9cfeab4d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113940,
+    "cdate": "1741944058000",
+    "comment": "<p>Sometimes it consumes more than 40 Gb of RAM on my Windows computer.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "de88a770-0520-4570-8187-69f149063fbb",
+      "name": "deliko.kral",
+      "link": "/author/de88a770-0520-4570-8187-69f149063fbb",
+      "hubLogin": "Michal_Kral.fjgb",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/de88a770-0520-4570-8187-69f149063fbb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113921,
+    "cdate": "1741917681000",
+    "comment": "<p>When to fix the garbled characters when completing Chinese, it's really annoying</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "name": "FaqWang",
+      "link": "/author/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "hubLogin": "fiswonder",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113882,
+    "cdate": "1741863189000",
+    "comment": "<p>PyCharm Copilot: Frequent errors, works briefly after restart (10 min), issue persistent for 2-3 weeks.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "0f5d95b3-be6e-414c-b7fe-8984541f1be5",
+      "name": "Daniel Avdar",
+      "link": "/author/0f5d95b3-be6e-414c-b7fe-8984541f1be5",
+      "hubLogin": "DanielAvdar",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0f5d95b3-be6e-414c-b7fe-8984541f1be5",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113863,
+    "cdate": "1741849027000",
+    "comment": "<p>Where is \"Copilot Edits\"? It was clearly available in previous versions. Why was it removed without any explanation?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "49338aff-764f-45ba-b3b1-5d43733fb583",
+      "name": "Kathlene Perrins",
+      "link": "/author/49338aff-764f-45ba-b3b1-5d43733fb583",
+      "hubLogin": "kathleneperrinsnbt24",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/49338aff-764f-45ba-b3b1-5d43733fb583",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113857,
+    "cdate": "1741839352000",
+    "comment": "<p>i hope github copilot can use deepseek</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "773973bb-e327-4ce7-abdd-d826068822bd",
+      "name": "honorjoey",
+      "link": "/author/773973bb-e327-4ce7-abdd-d826068822bd",
+      "hubLogin": "honorjoey",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/773973bb-e327-4ce7-abdd-d826068822bd",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113856,
+    "cdate": "1741837092000",
+    "comment": "<ol>\n<li>Integration with IDE is weak because there is no concept of \"edits\" unlike in IDEs like Cursor - I have to constantly copy-past a bunch of code into different files.</li>\n<li>Claude models are barely usable with any TSX code (~80% of false-positives for response filtering)</li>\n</ol>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "b21f0222-0fbb-4f6c-9bf5-dbd4dc5feae8",
+      "name": "ilya.levin",
+      "link": "/author/b21f0222-0fbb-4f6c-9bf5-dbd4dc5feae8",
+      "hubLogin": "Ilya_Levin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b21f0222-0fbb-4f6c-9bf5-dbd4dc5feae8",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113855,
+    "cdate": "1741836598000",
+    "comment": "<p>When to fix the garbled characters when completing Chinese, it's really annoying</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "name": "FaqWang",
+      "link": "/author/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "hubLogin": "fiswonder",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8bac1e04-54d2-4763-a4d2-366aacc64860",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113844,
+    "cdate": "1741828163000",
+    "comment": "<p>When to fix the garbled characters when completing Chinese, it's really annoying</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "74716b53-d5da-41e4-b505-e28ba947b50b",
+      "name": "Liu Ran",
+      "link": "/author/74716b53-d5da-41e4-b505-e28ba947b50b",
+      "hubLogin": "coding-pz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/74716b53-d5da-41e4-b505-e28ba947b50b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113840,
+    "cdate": "1741807566000",
+    "comment": "<p>Autocomplete still broken for a few weeks now, completely useless. Worse than the built in autocomplete right now.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "ef635cd3-ca3c-4712-ae7e-5958a94f66e4",
+      "name": "Chris Jenkins",
+      "link": "/author/ef635cd3-ca3c-4712-ae7e-5958a94f66e4",
+      "hubLogin": "chrisjenx",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ef635cd3-ca3c-4712-ae7e-5958a94f66e4",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113829,
+    "cdate": "1741790248000",
+    "comment": "<p>Autocompletion STILL broken in 1.5.38-243 for pycharm pro.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "b7164a59-4d40-41bb-b4f1-c1cecf2e797c",
+      "name": "theodore.ando",
+      "link": "/author/b7164a59-4d40-41bb-b4f1-c1cecf2e797c",
+      "hubLogin": "Theodore_Ando",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b7164a59-4d40-41bb-b4f1-c1cecf2e797c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113810,
+    "cdate": "1741771436000",
+    "comment": "<p>Issues with hanging PyCharm fixed in 1.5.38-243.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "1e1a422c-1790-4e2d-b54a-02724a87ed53",
+      "name": "Michał Żelazkiewicz",
+      "link": "/author/1e1a422c-1790-4e2d-b54a-02724a87ed53",
+      "hubLogin": "mzelazkiewicz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1e1a422c-1790-4e2d-b54a-02724a87ed53",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113802,
+    "cdate": "1741762822000",
+    "comment": "<p>GitHub Copilot plugin full-width character suggestions garbled.\nVer.1.5.38-243</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 1,
+    "author": {
+      "id": "64979cdc-21f4-40ed-ada1-0da4b2ec718e",
+      "name": "acejiyu",
+      "link": "/author/64979cdc-21f4-40ed-ada1-0da4b2ec718e",
+      "hubLogin": "ace_ji",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/64979cdc-21f4-40ed-ada1-0da4b2ec718e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113795,
+    "cdate": "1741755733000",
+    "comment": "<p>I didn't find it helpful at all since the suggestions it provides is simply same as the IntelliJ editor kind of. There is no chat/interactive terminal and hence there is no way to explain the model what is the requirement! VSCode extension is 100 times better than this one.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "c148a407-d91e-40af-8ee8-eeec78009346",
+      "name": "sachin.gorade",
+      "link": "/author/c148a407-d91e-40af-8ee8-eeec78009346",
+      "hubLogin": "Sachin_Gorade",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c148a407-d91e-40af-8ee8-eeec78009346",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113789,
+    "cdate": "1741745721000",
+    "comment": "<p>It would be better if copilot integrate DeepSeek.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "e0081fe0-a325-44c9-a1fe-3925dc5f9d6c",
+      "name": "liulingzhi",
+      "link": "/author/e0081fe0-a325-44c9-a1fe-3925dc5f9d6c",
+      "hubLogin": "lingzhi",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e0081fe0-a325-44c9-a1fe-3925dc5f9d6c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113783,
+    "cdate": "1741721037000",
+    "comment": "<p>Every Thing is Okay.\nBut when its comes to learning, copilot auto suggestion all the methods and answer automatically, this lead to laziness for learning developer ,\nSuggestion:\nGive a option for disable auto suggestion option of codes</p>\n<p>IntelliJ Idea is intelligent for helping in coding but after installing copilot its just messed up for learner. If anyone have problem in the code then the learner takes the help of copilot for finding and solving error</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "ad7b6d19-e078-44f0-b3ea-465efe8f16be",
+      "name": "vividh darote",
+      "link": "/author/ad7b6d19-e078-44f0-b3ea-465efe8f16be",
+      "hubLogin": "vividhdarote",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ad7b6d19-e078-44f0-b3ea-465efe8f16be",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113761,
+    "cdate": "1741697867000",
+    "comment": "<p>This last version is broken for me....</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "b0fa1fce-a94e-4309-8ce9-afd417c174aa",
+      "name": "jgml17",
+      "link": "/author/b0fa1fce-a94e-4309-8ce9-afd417c174aa",
+      "hubLogin": "Gustavo_Machado",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b0fa1fce-a94e-4309-8ce9-afd417c174aa",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 113756,
+    "cdate": "1741692559000",
+    "comment": "<p>New version broke the chat.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "e08fe0c0-2b7d-4bbe-b372-a43390c63737",
+      "name": "David Rey",
+      "link": "/author/e08fe0c0-2b7d-4bbe-b372-a43390c63737",
+      "hubLogin": "david.rey.nc",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e08fe0c0-2b7d-4bbe-b372-a43390c63737",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  }
+]
