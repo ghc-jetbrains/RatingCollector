@@ -1,0 +1,1305 @@
+[
+  {
+    "id": 120956,
+    "cdate": "1752194963000",
+    "comment": "<p>I am a paid user of Copilot.\nI’ve noticed that many reviews focus only on the inconveniences, without mentioning the positive aspects.\nI would like to ask those reviewers: Are there any plugin programs with such excellent features, apart from Copilot?\nI’m sure the developers are already well aware of the bugs and are working hard to fix them.Let’s be patient and give them some time.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 1,
+    "author": {
+      "id": "664eea87-02a8-48ab-bed4-1be64ce031a9",
+      "name": "개발자도 그리는드로잉",
+      "link": "/author/664eea87-02a8-48ab-bed4-1be64ce031a9",
+      "hubLogin": "mylee96",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/664eea87-02a8-48ab-bed4-1be64ce031a9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120940,
+    "cdate": "1752162380000",
+    "comment": "<p>Instead of accelerating my workflow, it slows me down. I've never had an AI that, even if you prompt it well with \"Please ask clarifying questions until you are 95% sure what to do\" and answer all clarifying questions, literally ignores my answers when it comes to implementation and does just what it wants. Impossible to write efficient and straightforward code with it as the agent always introduces way too much overhead and writes 800 lines of code for a thing that required in the end 100 lines of code.\n2 instead of 1 star because the autocompletion is okay.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "bb3548e5-24ca-45b4-829a-4b2d542e1e5a",
+      "name": "Anferney Walther",
+      "link": "/author/bb3548e5-24ca-45b4-829a-4b2d542e1e5a",
+      "hubLogin": "AnferneyW",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/bb3548e5-24ca-45b4-829a-4b2d542e1e5a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120932,
+    "cdate": "1752153062000",
+    "comment": "<p>What's really annoying is that the copy shortcut does not work on inline copilot suggestions, often making me lose both the prompt and the result.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 0,
+    "author": {
+      "id": "3cb657d2-7fc8-4898-86ea-5e0df899f92d",
+      "name": "Petr Kubeš",
+      "link": "/author/3cb657d2-7fc8-4898-86ea-5e0df899f92d",
+      "hubLogin": "petrkubes1997",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/3cb657d2-7fc8-4898-86ea-5e0df899f92d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120929,
+    "cdate": "1752148261000",
+    "comment": "<p>Constantly breaks the IDE, impossible to use.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "0e2fd99b-a167-4668-9112-94962f23fa70",
+      "name": "denys.vuika",
+      "link": "/author/0e2fd99b-a167-4668-9112-94962f23fa70",
+      "hubLogin": "Denys_Vuika.vyfq",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0e2fd99b-a167-4668-9112-94962f23fa70",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120861,
+    "cdate": "1752056543000",
+    "comment": "<p>The number of shortages and bugs makes it impossible to use.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "e45d636c-6508-4c77-899c-002f6152a15c",
+      "name": "Daniel Raczynski",
+      "link": "/author/e45d636c-6508-4c77-899c-002f6152a15c",
+      "hubLogin": "daniel.raczynski.mail",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e45d636c-6508-4c77-899c-002f6152a15c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120841,
+    "cdate": "1752028088000",
+    "comment": "<p>Calling the cli command will cause an error, it is worse than vscode</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "a9a66d8a-3f78-4689-a3af-c80f4f60a2fb",
+      "name": "Bleibtreu",
+      "link": "/author/a9a66d8a-3f78-4689-a3af-c80f4f60a2fb",
+      "hubLogin": "Bleibtreu_Z",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a9a66d8a-3f78-4689-a3af-c80f4f60a2fb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120840,
+    "cdate": "1752027422000",
+    "comment": "<p>it's good enough but not quite close to vs code one.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "c7008cf4-ceb7-4dd7-914e-33e5f5a30f58",
+      "name": "bagindov",
+      "link": "/author/c7008cf4-ceb7-4dd7-914e-33e5f5a30f58",
+      "hubLogin": "bonbonsiregar_bonbonsiregar",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c7008cf4-ceb7-4dd7-914e-33e5f5a30f58",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120794,
+    "cdate": "1751966717000",
+    "comment": "<p>为什么突然不能用了？？？</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "adfa0744-bbe0-4ec6-8c39-725ebe2a712a",
+      "name": "sxx121",
+      "link": "/author/adfa0744-bbe0-4ec6-8c39-725ebe2a712a",
+      "hubLogin": "sxx121",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/adfa0744-bbe0-4ec6-8c39-725ebe2a712a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120750,
+    "cdate": "1751916969000",
+    "comment": "<p>When we compare this plugin with the VS Code one, we want to drop this immediately. More than once, blank files were added to the solution with no explanations.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 0,
+    "author": {
+      "id": "e2f166ab-8a2b-4a2b-9a70-53ade3e57db7",
+      "name": "Guilherme Lopes M. F.",
+      "link": "/author/e2f166ab-8a2b-4a2b-9a70-53ade3e57db7",
+      "hubLogin": "gui.lopes",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e2f166ab-8a2b-4a2b-9a70-53ade3e57db7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120693,
+    "cdate": "1751868735000",
+    "comment": "<p>support auto detect language in Copilot Chat like vscode, please</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "c192d881-8545-445f-a588-17c4e1e68ef5",
+      "name": "caiqichang",
+      "link": "/author/c192d881-8545-445f-a588-17c4e1e68ef5",
+      "hubLogin": "caiqichang",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c192d881-8545-445f-a588-17c4e1e68ef5",
+      "personalVendorId": 6083,
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120649,
+    "cdate": "1751737523000",
+    "comment": "<p>Even on free plan this plugin is very helpful with providing some small in-place snippets, helping with code explanatinos and auto-complete for boring code.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "4f120b11-899b-443e-8348-c6baf394626e",
+      "name": "Kirill Shmakov",
+      "link": "/author/4f120b11-899b-443e-8348-c6baf394626e",
+      "hubLogin": "menato",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/4f120b11-899b-443e-8348-c6baf394626e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120628,
+    "cdate": "1751707196000",
+    "comment": "<p>Not as good as Tongyi Lingma. The experience with Tongyi Lingma feels far superior, plus it integrates large language models (like qwen3, deepseek, etc.), offers extensive customization options, and is completely free to use.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "e054052e-849d-4ef7-b07a-79954babf1c4",
+      "name": "sshhgggdd",
+      "link": "/author/e054052e-849d-4ef7-b07a-79954babf1c4",
+      "hubLogin": "sshhgggdd",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e054052e-849d-4ef7-b07a-79954babf1c4",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120600,
+    "cdate": "1751634542000",
+    "comment": "<p>Very poor integration with the IDE, there's no agent mode and no smooth path to get the code out of the chat. Inline fixes are inserted without looking at the context so you end with duplicated code. Copy/pasting the code from the chat will paste with formatting quotes and wrong indentation. Miles behind Cursor and VSCode.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "47c742a8-5600-46a7-b6ea-2eebcb591769",
+      "name": "Mauricio",
+      "link": "/author/47c742a8-5600-46a7-b6ea-2eebcb591769",
+      "hubLogin": "mauricio",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/47c742a8-5600-46a7-b6ea-2eebcb591769",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120571,
+    "cdate": "1751599404000",
+    "comment": "<p>Very garbage compared to what VSCode and Cursor offer,\nPoorly integrated.\nDoesn't support the integrated terminal.\nShortcuts are cumbersome to use.\nI have to switch back to VSCode to use it better sometimes</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "fb846e2c-0af3-4b92-ae3e-6c38dda443ba",
+      "name": "Eugene Wang",
+      "link": "/author/fb846e2c-0af3-4b92-ae3e-6c38dda443ba",
+      "hubLogin": "wangeugene",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/fb846e2c-0af3-4b92-ae3e-6c38dda443ba",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120543,
+    "cdate": "1751548869000",
+    "comment": "<p>I have been been using pycharm for years not, but this tool is very important. If the features are not added like searching within the git repo, adding custom prompt files, I will switch to vs code and cancel my subscription.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "ed757c5e-41c0-4da0-8adb-6395c23a367f",
+      "name": "ildar.shagidullin",
+      "link": "/author/ed757c5e-41c0-4da0-8adb-6395c23a367f",
+      "hubLogin": "Ildar_Shagidullin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ed757c5e-41c0-4da0-8adb-6395c23a367f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120514,
+    "cdate": "1751537420000",
+    "comment": "<p>Very poor integration with the IDE.\nConstant problems:</p>\n<ul>\n<li>at some point coping to clipboard from chat wasn't possible</li>\n<li>applying suggestion is not working with the shortcut (it doesn't work at all)</li>\n</ul>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "f32a74b1-0bf6-4735-854e-b323b9e60863",
+      "name": "mmazur",
+      "link": "/author/f32a74b1-0bf6-4735-854e-b323b9e60863",
+      "hubLogin": "Maciej_Mazur",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f32a74b1-0bf6-4735-854e-b323b9e60863",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120448,
+    "cdate": "1751448297000",
+    "comment": "<p>While it isn't perfect integrated yet, it already provides immense help if you know how to use it - and development is ongoing. Thanks!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "dd63d7e5-5b00-4b36-b604-357332b2d399",
+      "name": "Ralf.Grieshaber",
+      "link": "/author/dd63d7e5-5b00-4b36-b604-357332b2d399",
+      "hubLogin": "Ralf_Grieshaber",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/dd63d7e5-5b00-4b36-b604-357332b2d399",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 2
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120445,
+    "cdate": "1751445812000",
+    "comment": "<p>The new \"auto scroll\" \"feature\" is horrible. You send a new message in the chat and ALL your visual context is deleted instantly with only your very last message shown at the top. You have to scroll up to see any previous messages again and when the response is somewhat small it always leaves an ugly amount of blank space at the bottom of the response message.</p>\n<p>This was not the case until the June updates, bring back the normal scrolling and sizing of messages.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "7a2d36a5-9c7f-40e3-9d13-5cc83b887af1",
+      "name": "Miley Hollenberg",
+      "link": "/author/7a2d36a5-9c7f-40e3-9d13-5cc83b887af1",
+      "hubLogin": "nitrocrime",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/7a2d36a5-9c7f-40e3-9d13-5cc83b887af1",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120441,
+    "cdate": "1751442279000",
+    "comment": "<p>The experience is average, the main problem is that Microsoft deliberately tilts resources to VSCode. JB's copilot plug-in function iterates very slowly, and JB's own AI capabilities are insufficient.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 1,
+    "author": {
+      "id": "a9a66d8a-3f78-4689-a3af-c80f4f60a2fb",
+      "name": "Bleibtreu",
+      "link": "/author/a9a66d8a-3f78-4689-a3af-c80f4f60a2fb",
+      "hubLogin": "Bleibtreu_Z",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a9a66d8a-3f78-4689-a3af-c80f4f60a2fb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120400,
+    "cdate": "1751366281000",
+    "comment": "<p>The plugin works very well. The setup was straightforward. The code suggestions are on point, making coding faster and also more fun.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 5,
+    "repliesCount": 0,
+    "author": {
+      "id": "210da7b0-b518-470a-ada1-1a933e64dc77",
+      "name": "d.h.chu",
+      "link": "/author/210da7b0-b518-470a-ada1-1a933e64dc77",
+      "hubLogin": "Hung_Chu",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/210da7b0-b518-470a-ada1-1a933e64dc77",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120385,
+    "cdate": "1751358216000",
+    "comment": "<p>When I open and close some file, it still showing as \"opened\" file in \"Add context\" button menu. Is it bug? Because it's strange flow.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 1,
+    "author": {
+      "id": "55eb8c79-3989-4849-85ac-41c1769a590e",
+      "name": "Ilya",
+      "link": "/author/55eb8c79-3989-4849-85ac-41c1769a590e",
+      "hubLogin": "rusher",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/55eb8c79-3989-4849-85ac-41c1769a590e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120352,
+    "cdate": "1751286339000",
+    "comment": "<p>Sangat menguras  ram</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "8bfae2a4-e512-4415-810d-88df8cc66245",
+      "name": "Sky Developer",
+      "link": "/author/8bfae2a4-e512-4415-810d-88df8cc66245",
+      "hubLogin": "skydeveloper35",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8bfae2a4-e512-4415-810d-88df8cc66245",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120225,
+    "cdate": "1750991718000",
+    "comment": "<p>Why does copilot support pasting images in vs code, while IDEA never supports pasting images?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "5203c9cf-23da-48ec-8e1f-85b1359378fa",
+      "name": "xiake",
+      "link": "/author/5203c9cf-23da-48ec-8e1f-85b1359378fa",
+      "hubLogin": "friendship204316",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/5203c9cf-23da-48ec-8e1f-85b1359378fa",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120220,
+    "cdate": "1750988711000",
+    "comment": "<p>1.5.45-241 升级到 1.5.47-241为什么生成的类不能保存了？ 点击✔️不能保存文件。</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "93dd4470-9549-4e96-bef1-a7041e07ead9",
+      "name": "yannis.liu",
+      "link": "/author/93dd4470-9549-4e96-bef1-a7041e07ead9",
+      "hubLogin": "liuyanqing-derbysoft",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/93dd4470-9549-4e96-bef1-a7041e07ead9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 2
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120176,
+    "cdate": "1750935184000",
+    "comment": "<p>Consumes insane amount of RAM under Ubuntu (multiple versions). Leads to OOM kills after a while.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "fdc090d4-a746-4508-97b3-aafa41186c97",
+      "name": "Sebastian Henke",
+      "link": "/author/fdc090d4-a746-4508-97b3-aafa41186c97",
+      "hubLogin": "henkesn",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/fdc090d4-a746-4508-97b3-aafa41186c97",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120164,
+    "cdate": "1750930278000",
+    "comment": "<p>后本来可以自动保存生成的类更新不能保存了，fuck</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "93dd4470-9549-4e96-bef1-a7041e07ead9",
+      "name": "yannis.liu",
+      "link": "/author/93dd4470-9549-4e96-bef1-a7041e07ead9",
+      "hubLogin": "liuyanqing-derbysoft",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/93dd4470-9549-4e96-bef1-a7041e07ead9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120163,
+    "cdate": "1750929960000",
+    "comment": "<p>Claude Sonnet 4 is available eventually</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "c2e28254-7e6d-4c33-8838-051b4cff9ece",
+      "name": "Max Shaev",
+      "link": "/author/c2e28254-7e6d-4c33-8838-051b4cff9ece",
+      "hubLogin": "maxsh",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c2e28254-7e6d-4c33-8838-051b4cff9ece",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120122,
+    "cdate": "1750891690000",
+    "comment": "<p>Claude 4 was released more than a month ago and it is still not available for IntelliJ, whilst VS code has it. What a f*** joke!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "110ca08d-d321-4b7b-a252-796cfdd0e46b",
+      "name": "fernando.bragga",
+      "link": "/author/110ca08d-d321-4b7b-a252-796cfdd0e46b",
+      "hubLogin": "Fernando_Braga",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/110ca08d-d321-4b7b-a252-796cfdd0e46b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120090,
+    "cdate": "1750858661000",
+    "comment": "<p>Very unreliable, not available in Dutch, produces way to much errors, doesn't understand context well, hard to add all context, when you add all files you have to manually remove them file by file, can't let it see more than files (so you can't link run window for example), takes way longer with answering compared to Jetbrains own AI tool with the same model, copying code out of the answer doesn't work 50% of the time, open files block view of the chat, sometimes just straight up removes the chat I was working in and I probably forgot some of the most frustrating things, these are just things I could think of in 1 minute. Don't waste your money on this stupid program, there are enough beter alternatives.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "1ee1171f-1d64-4352-8c3e-65970edcba4b",
+      "name": "Ivan Dolman",
+      "link": "/author/1ee1171f-1d64-4352-8c3e-65970edcba4b",
+      "hubLogin": "ivandolman",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1ee1171f-1d64-4352-8c3e-65970edcba4b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 120047,
+    "cdate": "1750844147000",
+    "comment": "<p>I can't even login, I have a huge Java exception in my face. This plugin is trash right now.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "7eb868fb-f4a4-4212-800d-8377f802b751",
+      "name": "Balázs Krizsán",
+      "link": "/author/7eb868fb-f4a4-4212-800d-8377f802b751",
+      "hubLogin": "krizsan.balazs",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/7eb868fb-f4a4-4212-800d-8377f802b751",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119970,
+    "cdate": "1750830645000",
+    "comment": "<p>Where is Sonnet 4?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "a988075c-504a-4624-9a28-9dd00e31c442",
+      "name": "crowforkotlin",
+      "link": "/author/a988075c-504a-4624-9a28-9dd00e31c442",
+      "hubLogin": "crowforkotlin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a988075c-504a-4624-9a28-9dd00e31c442",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119960,
+    "cdate": "1750829971000",
+    "comment": "<p>MCP calls sometimes (~50% cases) produce an error, without any explanation.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "cb7f4891-08d5-48c7-a57f-c83702f2edad",
+      "name": "Oleg Dubrov",
+      "link": "/author/cb7f4891-08d5-48c7-a57f-c83702f2edad",
+      "hubLogin": "phplego",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/cb7f4891-08d5-48c7-a57f-c83702f2edad",
+      "personalVendorId": 2379,
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119840,
+    "cdate": "1750771562000",
+    "comment": "<p>Installing GitHub Copilot for IntelliJ felt like hiring a genius assistant who refuses to speak unless the stars align. Every time I ask for help, I’m met with the now-iconic, soul-crushing:\n“Oops, your response got filtered.”</p>\n<p>It’s like Copilot is trying to protect me from... code? I didn’t realize I needed a content moderator for my for loops.</p>\n<p>Want a multiline suggestion? Too bad. Want a clever refactor? Sorry, that’s been deemed too spicy for IntelliJ. At this point, I’m convinced the plugin’s main function is to teach me patience and humility.</p>\n<p>If you enjoy cryptic silence and philosophical error messages, this plugin is for you. Otherwise, maybe just stick to rubber duck debugging—it’s more responsive.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "ac90473b-7f07-4b37-ac66-93e7e4e1fe28",
+      "name": "Paul Ackley",
+      "link": "/author/ac90473b-7f07-4b37-ac66-93e7e4e1fe28",
+      "hubLogin": "packley1",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ac90473b-7f07-4b37-ac66-93e7e4e1fe28",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119764,
+    "cdate": "1750684767000",
+    "comment": "<p>It´s a good plugin, but, the inline chat, compared to that of VS-Code, is very poor. The changes do not apply, it only shows suggestions.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "656a7551-8e59-4ab8-8c83-00f9bde9701c",
+      "name": "Rodrigo Bertin",
+      "link": "/author/656a7551-8e59-4ab8-8c83-00f9bde9701c",
+      "hubLogin": "rodrigobertin",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/656a7551-8e59-4ab8-8c83-00f9bde9701c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119759,
+    "cdate": "1750681453000",
+    "comment": "<p>Microsoft seems to artificially make Calude 4 to not work in JetBrains IDEs. What a shame.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "b3416623-6921-4889-8185-6fa4daf24717",
+      "name": "istvan.ujj-meszaros",
+      "link": "/author/b3416623-6921-4889-8185-6fa4daf24717",
+      "hubLogin": "István_Ujj-Mészáros",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b3416623-6921-4889-8185-6fa4daf24717",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119754,
+    "cdate": "1750676126000",
+    "comment": "<p>Small company Microsoft can't add poor Claude 4 to Intellij products for more than a month?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "55eb8c79-3989-4849-85ac-41c1769a590e",
+      "name": "Ilya",
+      "link": "/author/55eb8c79-3989-4849-85ac-41c1769a590e",
+      "hubLogin": "rusher",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/55eb8c79-3989-4849-85ac-41c1769a590e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119736,
+    "cdate": "1750664391000",
+    "comment": "<p>shortcuts not work</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "8ed9b678-2206-489e-88d4-a0fe4298ea5a",
+      "name": "ermescontarini",
+      "link": "/author/8ed9b678-2206-489e-88d4-a0fe4298ea5a",
+      "hubLogin": "Ermes_Contarini",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8ed9b678-2206-489e-88d4-a0fe4298ea5a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119729,
+    "cdate": "1750660675000",
+    "comment": "<p>In which specific locations or collections can one precisely find Claude Sonnet 4? Is it hidden away in some ancient library's rare manuscript section, or perhaps tucked within the pages of a particular anthology that has been overlooked by many? Could it be in a private collection, only accessible to a select few who have the privilege of delving into such literary treasures? Where exactly might this elusive Claude Sonnet 4 be located?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "96f5fd45-7f15-483e-b7d8-c40db3618b55",
+      "name": "jinzhuguang08",
+      "link": "/author/96f5fd45-7f15-483e-b7d8-c40db3618b55",
+      "hubLogin": "CodeFarmer_CodeFarmer",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/96f5fd45-7f15-483e-b7d8-c40db3618b55",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119711,
+    "cdate": "1750572005000",
+    "comment": "<p>Latest version broke already lagging behind features. now i no more have options to select models and adding files has become almost impossible.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "e154e3e5-de6f-4f2e-835e-46e0455340c3",
+      "name": "Ridwan.Ali.Mohammed",
+      "link": "/author/e154e3e5-de6f-4f2e-835e-46e0455340c3",
+      "hubLogin": "Ridwan_Mohammed",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e154e3e5-de6f-4f2e-835e-46e0455340c3",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119710,
+    "cdate": "1750566410000",
+    "comment": "<p>当我输入 # 试图引用某个文件时，它居然不起作用，没有看到相关的说明</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "814f6212-ff59-4960-8f20-e810fabe7a5f",
+      "name": "小白不圆",
+      "link": "/author/814f6212-ff59-4960-8f20-e810fabe7a5f",
+      "hubLogin": "ape-byte",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/814f6212-ff59-4960-8f20-e810fabe7a5f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119678,
+    "cdate": "1750430835000",
+    "comment": "<p>Last version remove option add more selected files, instead there is add all opened files, but it can be huge list, and I don't really need add all that files, but only some selected. Please allow again select files which I can add. And adding by one by one is really annoying</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "07fbdc1a-45af-4d56-a181-366b45428581",
+      "name": "Josef Sedlacik",
+      "link": "/author/07fbdc1a-45af-4d56-a181-366b45428581",
+      "hubLogin": "josef.sedlacik.1",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/07fbdc1a-45af-4d56-a181-366b45428581",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119630,
+    "cdate": "1750356931000",
+    "comment": "<p>when i click accpet all it doesnt create the files pls fix it (on edit mode)\nVersion:1.5.47-243\npls fix\nThanks</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 0,
+    "author": {
+      "id": "4a90b27b-c5fc-4b52-9f41-a7380b14b0f9",
+      "name": "Gerhart Neumakeller",
+      "link": "/author/4a90b27b-c5fc-4b52-9f41-a7380b14b0f9",
+      "hubLogin": "g7630419",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/4a90b27b-c5fc-4b52-9f41-a7380b14b0f9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119606,
+    "cdate": "1750321079000",
+    "comment": "<p>Please, could somebody tell me how to get the AGENT mode working?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 3,
+    "repliesCount": 3,
+    "author": {
+      "id": "36033f5f-3a7f-4ca9-ab1e-7288c1276037",
+      "name": "Antonio Petricca",
+      "link": "/author/36033f5f-3a7f-4ca9-ab1e-7288c1276037",
+      "hubLogin": "antonio.petricca",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/36033f5f-3a7f-4ca9-ab1e-7288c1276037",
+      "personalVendorId": 5915,
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119585,
+    "cdate": "1750296425000",
+    "comment": "<p>6嗷，今天一有更新马上更了，以为更了Cluade4，打开下拉列表发现就更新了个分组，你是真牛批</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 2,
+    "author": {
+      "id": "d5cf17e1-1561-4b59-8ba4-add47d4c6548",
+      "name": "巨硬",
+      "link": "/author/d5cf17e1-1561-4b59-8ba4-add47d4c6548",
+      "hubLogin": "Yagami_Light",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d5cf17e1-1561-4b59-8ba4-add47d4c6548",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119569,
+    "cdate": "1750276506000",
+    "comment": "<p>начали грести капусту</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 4,
+    "repliesCount": 0,
+    "author": {
+      "id": "add13b5d-b3a6-46e2-9b87-a1a94bd761ba",
+      "name": "Anonymous",
+      "link": "/author/add13b5d-b3a6-46e2-9b87-a1a94bd761ba",
+      "hubLogin": "5cFCf6Tp",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/add13b5d-b3a6-46e2-9b87-a1a94bd761ba",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119563,
+    "cdate": "1750262616000",
+    "comment": "<p>Like the others where is Sonnet 4!!!!!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 0,
+    "repliesCount": 1,
+    "author": {
+      "id": "a1431db9-ff53-41d8-ac16-96c539269e84",
+      "name": "torarinvik@gmail.com",
+      "link": "/author/a1431db9-ff53-41d8-ac16-96c539269e84",
+      "hubLogin": "torarinvik@gmail.com",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a1431db9-ff53-41d8-ac16-96c539269e84",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119543,
+    "cdate": "1750243701000",
+    "comment": "<p>Where is Sonnet 4?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 1,
+    "author": {
+      "id": "a4b33692-6016-4b0a-a057-5e7ce8267fda",
+      "name": "Myktybek",
+      "link": "/author/a4b33692-6016-4b0a-a057-5e7ce8267fda",
+      "hubLogin": "myktybek",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a4b33692-6016-4b0a-a057-5e7ce8267fda",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 7,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119531,
+    "cdate": "1750236228000",
+    "comment": "<p>Where is claude sonnet 4?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 1,
+    "repliesCount": 0,
+    "author": {
+      "id": "e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "name": "Kenzson Chang",
+      "link": "/author/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "hubLogin": "kenzson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e4af74e1-6450-4f7e-ad07-41fb8e0a7956",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 9,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119526,
+    "cdate": "1750230262000",
+    "comment": "<p>Missing Agent mode. It is really slow to query and to generate code</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "41ffdc4b-a08f-4824-8936-f18d00e24231",
+      "name": "Juan González Montes",
+      "link": "/author/41ffdc4b-a08f-4824-8936-f18d00e24231",
+      "hubLogin": "juanwilde",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/41ffdc4b-a08f-4824-8936-f18d00e24231",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 119478,
+    "cdate": "1750165759000",
+    "comment": "<p>Why the AI Agent and chat disappeared in JetBrains? (icon in the right vertical bar)</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "rating": 2,
+    "repliesCount": 0,
+    "author": {
+      "id": "54c4e4ff-3ed9-4853-be76-4c1ce7b1f7be",
+      "name": "Nicolas Martin",
+      "link": "/author/54c4e4ff-3ed9-4853-be76-4c1ce7b1f7be",
+      "hubLogin": "contact.tove",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/54c4e4ff-3ed9-4853-be76-4c1ce7b1f7be",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  }
+]
