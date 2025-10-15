@@ -1,0 +1,1403 @@
+[
+  {
+    "id": 127374,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760536679000",
+    "comment": "<p>can be a great help but it keeps reopening old files for no reason. the token limit is too low you can only do a single agent request because the next will always be cut off</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "55f2d8fd-78fd-4998-9f09-e901c68dd0a0",
+      "name": "wenig-code",
+      "link": "/author/55f2d8fd-78fd-4998-9f09-e901c68dd0a0",
+      "hubLogin": "wenig-code",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/55f2d8fd-78fd-4998-9f09-e901c68dd0a0",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127373,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760536561000",
+    "comment": "<p>Didn't work in Russia</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "ae109628-b1ee-42de-b952-b9c50dec2e42",
+      "name": "Alexander Cherepanov",
+      "link": "/author/ae109628-b1ee-42de-b952-b9c50dec2e42",
+      "hubLogin": "lanmaster",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ae109628-b1ee-42de-b952-b9c50dec2e42",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127351,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760522465000",
+    "comment": "<p>The idea of it is great, but it makes Intellij IDEA completely unusable.</p>\n<ul>\n<li>Undo with Ctrl-Z does not work at all or changes random things in the file</li>\n<li>Syntax check not working</li>\n<li>IDE gets extremely laggy</li>\n</ul>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2dd4a4b0-71f3-41b0-8175-43ee8d8273c7",
+      "name": "Roman Saratz",
+      "link": "/author/2dd4a4b0-71f3-41b0-8175-43ee8d8273c7",
+      "hubLogin": "roman.saratz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2dd4a4b0-71f3-41b0-8175-43ee8d8273c7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127296,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760458472000",
+    "comment": "<p>Uninstalled and stopped paying for Copilot, because this plugin constantly broke the whole IDE, where only deleting .idea folder and reimporting whole project restored it. It happened up to several times a day. Otherwise it would be acceptable.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0c2d69e1-7669-4865-8f06-c98537b0f238",
+      "name": "Michal",
+      "link": "/author/0c2d69e1-7669-4865-8f06-c98537b0f238",
+      "hubLogin": "Dvořák",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0c2d69e1-7669-4865-8f06-c98537b0f238",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127291,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760454452000",
+    "comment": "<p>All of a sudden, Copilot refuses to implement any of its suggested changes. I've tried over and over, and it says it's going to implement the change, and then it doesn't. What's up with this?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "950e4755-27e9-4946-b490-dcf4f0b27e6c",
+      "name": "Lyle",
+      "link": "/author/950e4755-27e9-4946-b490-dcf4f0b27e6c",
+      "hubLogin": "lyle.ziegelmiller",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/950e4755-27e9-4946-b490-dcf4f0b27e6c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127289,
+    "rating": 5,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760452773000",
+    "comment": "<p>I have had no issues with the plugin. New models are supported almost immediately. Keep in mind that models have to be turned on in your GitHub account to show up in JetBrains. Sonnet 4.5 and Grok Code 1 Fast are already supported by the plugin if you turn them on in GitHub, unlike some of the previous comments stated. Documentation could definitely be better to keep people better up-to-date on this.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0caf81e7-1795-4a12-9240-32db62dc2197",
+      "name": "david",
+      "link": "/author/0caf81e7-1795-4a12-9240-32db62dc2197",
+      "hubLogin": "David_Sinclair",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0caf81e7-1795-4a12-9240-32db62dc2197",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127153,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760276633000",
+    "comment": "<p>It is far behind, and annoying to use, you can't clear the chat, so when it stack up, you have to clone your project and re-import the whole project, you can't simply open a new chat with a new context.</p>\n<p>Also, when new AI model is released, it is not showing up here, for example, at this date today there is no Sonnet 4.1 and 4.5 support, there is no Grok Fast 1, GPT-5 Codex.</p>\n<p>I feel Microsoft is doing this so people leave JetBrains in favor of going to Visual Code, which has waaaaay better Copilot.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "afb4295c-d8ee-48e2-8e57-28b72b4010ea",
+      "name": "Al-Mothafar Al-Hasan",
+      "link": "/author/afb4295c-d8ee-48e2-8e57-28b72b4010ea",
+      "hubLogin": "almothafar.alhasan1-e",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/afb4295c-d8ee-48e2-8e57-28b72b4010ea",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127097,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760167148000",
+    "comment": "<p>better autocompletion (i didn't use the chat so idk) but this turn off the native autocompletion automatically which lead to a huge performance improve</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1c29cfb7-a039-4fb8-8401-68b21e1257b7",
+      "name": "Tran Gia Hy",
+      "link": "/author/1c29cfb7-a039-4fb8-8401-68b21e1257b7",
+      "hubLogin": "tomkhoailang",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1c29cfb7-a039-4fb8-8401-68b21e1257b7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127070,
+    "rating": 5,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760104631000",
+    "comment": "<p>The plugin is amazing! The issue mentioned by different users below (like 100% CPU load, UI freezes, etc.) is related to JetBrains probucts, not to the plugin. The solution was mentioned in this comment and works well for me:</p>\n<ul>\n<li><a href=\"https://github.com/microsoft/copilot-intellij-feedback/issues/529#issuecomment-3352779192\">https://github.com/microsoft/copilot-intellij-feedback/issues/529#issuecomment-3352779192</a></li>\n</ul>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "2562fb50-0fc8-49ec-8376-4b60edeb8c46",
+      "name": "Vitalii",
+      "link": "/author/2562fb50-0fc8-49ec-8376-4b60edeb8c46",
+      "hubLogin": "vi.marushko",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2562fb50-0fc8-49ec-8376-4b60edeb8c46",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127058,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760092489000",
+    "comment": "<p>Really terrible experience.\nI need to relogin so often it makes it useless. It also slows down perfomence significantly.\nI don't understand which model is better for what goal - why don to add this? A new one comes every now and then - I can't take care of everyone. And at the same time it's unable to write complex unit tests - so in overall it's useless.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2e696033-9630-487f-9083-a294f61e0609",
+      "name": "Dmitry Gusev",
+      "link": "/author/2e696033-9630-487f-9083-a294f61e0609",
+      "hubLogin": "dmitry.gusev.95",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2e696033-9630-487f-9083-a294f61e0609",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127050,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760085191000",
+    "comment": "<p>Lately Copilots UI became horribly instable. Cannot create new conversations, often cannot send the request at all.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "384906cc-d277-4a19-a448-9aac4eb58352",
+      "name": "karol.beresniewicz",
+      "link": "/author/384906cc-d277-4a19-a448-9aac4eb58352",
+      "hubLogin": "Karol_Bereśniewicz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/384906cc-d277-4a19-a448-9aac4eb58352",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127031,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760068704000",
+    "comment": "<p>The overall functions can all be used, but recently I had to joke about a problem. The opening function of the current file causes the code generated in Agent mode to always modify the latest code again, continuously looping and modifying the current document. As a result, I can only close the current file now. During the generation process, I cannot switch to other files to view either, because it is always open by default, causing the file to be continuously modified in a loop during the generation process.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2b62f44e-8534-43ad-a019-a98da35aa492",
+      "name": "mPino G",
+      "link": "/author/2b62f44e-8534-43ad-a019-a98da35aa492",
+      "hubLogin": "fukaiyu110",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2b62f44e-8534-43ad-a019-a98da35aa492",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126998,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1760021506000",
+    "comment": "<p>My experience with this plugin was absolutely terrible. It messed up the code completion, the context awareness of the conversation and code base was nearly non-existent, in agent mode it tried to generate the folder structures/files outside of the project directory (I gave it the full reference and appended a file from the same package, but it didn't even get the root folder of the project sources right).</p>\n<p>I have no idea about the experience with GH Copilot in other IDEs, but if you use JetBrains products, my advice is to not even think about installing this plugin.</p>\n<p>The license was provided by the company so I gave it a shot, but I am going back to AI Assistant and Junie.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "23624a53-4162-4970-820b-4e7f5309b445",
+      "name": "tomas tkac",
+      "link": "/author/23624a53-4162-4970-820b-4e7f5309b445",
+      "hubLogin": "tomas.bxex",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/23624a53-4162-4970-820b-4e7f5309b445",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126961,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759994505000",
+    "comment": "<p>Breaks PHPStorm syntax checking, crashes, is extremely slow and it doesn't load all the models that I have access to anymore (for example, GPT-5-codex is only available in VSCode for me now). Why are you doing this, Microsoft? I won't switch to VSCode as my main IDE, if that's your plan.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "6b1ef1f0-ddad-485c-9916-04979fe9fa20",
+      "name": "Jehad Assaf",
+      "link": "/author/6b1ef1f0-ddad-485c-9916-04979fe9fa20",
+      "hubLogin": "jehadassaf",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6b1ef1f0-ddad-485c-9916-04979fe9fa20",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126936,
+    "rating": 4,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759958706000",
+    "comment": "<p>Finally, an agent coder JetBrains extension comparable to VSCode's Roo Code\nThere are a few downsides compared to Roo, like the lack of intelligent context condensing, which is a killer feature in Roo which lets the agent to run for way longer despite the short context window\nBut at least, Copilot is a proper plugin with an agent feature that lets me auto-approve the changes while also supporting running commands in the terminal and of course using MCP servers, and since I have access to GitHub Education, this is completely free for now</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "804d9e57-604b-41ed-9080-964007abf4d7",
+      "name": "Avi",
+      "link": "/author/804d9e57-604b-41ed-9080-964007abf4d7",
+      "hubLogin": "avi12",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/804d9e57-604b-41ed-9080-964007abf4d7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126903,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759911906000",
+    "comment": "<p>The Copilot integration into Jetbrains is slow, buggy, crashes, and causes multiple UI issues. This has been ongoing for months now. It's making me contemplate other AI assistants as it seems to be clear that it is not supported well enough in Jetbrains products.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "b50359ea-3ca3-4ad5-941b-e9d8599908ce",
+      "name": "Joe Fenton",
+      "link": "/author/b50359ea-3ca3-4ad5-941b-e9d8599908ce",
+      "hubLogin": "joe.axwr",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b50359ea-3ca3-4ad5-941b-e9d8599908ce",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126871,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759864094000",
+    "comment": "<p>Bummer because I prefer the dev experience of WebStorm for most everything else. But Copilot in VSCode is a way better experience. Its suggestions are more contextual and intelligent. I can add a variable to one file and export it, go to another file, begin to type and Copilot is already suggesting what to do with that variable and it's often very accurate. Whereas with WebStorm it doesn't seem to have that context of what was recently typed between files and what files are currently open.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "116a961b-a38e-41c6-82cd-b5faf8a4367d",
+      "name": "David Jozwik",
+      "link": "/author/116a961b-a38e-41c6-82cd-b5faf8a4367d",
+      "hubLogin": "david.275",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/116a961b-a38e-41c6-82cd-b5faf8a4367d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126832,
+    "rating": 4,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759825313000",
+    "comment": "<p>I'll give Copailot another chance</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "e62d6bd7-a69e-4265-8383-752022949e6b",
+      "name": "Dmitry Skibitsky",
+      "link": "/author/e62d6bd7-a69e-4265-8383-752022949e6b",
+      "hubLogin": "dmitryskibitskiy",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e62d6bd7-a69e-4265-8383-752022949e6b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126777,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759746299000",
+    "comment": "<p>Constants relogins. UI freezes; Not able to select newest model. Just a time waste, comparing to cursor</p>\n<p>Only installed it because my coorporation waned to do so, but then removed due to constant freezes.</p>\n<p>Also no way to disable telemetry.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "57fb8980-fd72-490e-af22-cb515d4131b7",
+      "name": "Gleb Sevruk",
+      "link": "/author/57fb8980-fd72-490e-af22-cb515d4131b7",
+      "hubLogin": "sevruk.gleb",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/57fb8980-fd72-490e-af22-cb515d4131b7",
+      "personalVendorId": 4647,
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126767,
+    "rating": 5,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759737668000",
+    "comment": "<p>The best plugin on my engineer career.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "35b82737-e597-4267-b8f8-f3f3af00ec55",
+      "name": "dfm00023",
+      "link": "/author/35b82737-e597-4267-b8f8-f3f3af00ec55",
+      "hubLogin": "David_Fernández_Moreno",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/35b82737-e597-4267-b8f8-f3f3af00ec55",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 4
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126625,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759412284000",
+    "comment": "<p>Plugin constantly breaks.\n\"Failed to initiate the GitHub login process. Please try again. \"\nI have to uninstall and re-install/login just for it to work for a short duration.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "805be810-0a39-4403-902d-10522c1e981b",
+      "name": "rupert",
+      "link": "/author/805be810-0a39-4403-902d-10522c1e981b",
+      "hubLogin": "Rupert_Stamp",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/805be810-0a39-4403-902d-10522c1e981b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126613,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759395497000",
+    "comment": "<p>100% CPU load, are you kidding?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "d07a68c4-2589-4459-869a-35a445af5b7d",
+      "name": "Aleksej",
+      "link": "/author/d07a68c4-2589-4459-869a-35a445af5b7d",
+      "hubLogin": "fnaticshy",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d07a68c4-2589-4459-869a-35a445af5b7d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126587,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759342558000",
+    "comment": "<p>In the last month, it's almost impossible to use Copilot! Unfortunately, it's getting worse instead of better! I believe that in the end, if they make the same product at the same level as the VSC plugin, it would be much more profitable because Copilot is definitely the best AI assistant. I used to use VSC, but due to some requirements, I had to switch to Intellij IDEA, happy about the fact that Copilot is also there, when the disappointment with it there is so that if it doesn't improve, I will have to switch the entire ecosystem to another assistant, and I honestly don't like that thought!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "bc440a46-c9f5-4db6-a965-6dc94e5abaa9",
+      "name": "Matteo Dijanezevic",
+      "link": "/author/bc440a46-c9f5-4db6-a965-6dc94e5abaa9",
+      "hubLogin": "Di.matteo",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/bc440a46-c9f5-4db6-a965-6dc94e5abaa9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126553,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759313733000",
+    "comment": "<p>Since recent updates (most notably the introduction of agentic mode) the plugin makes the IDE unusable, most jarring issue is that information per token doesn't update anymore,\nfor example when there is a error token (invalid syntax) after fixing the red font color still\npersists, and it still reporting the fixed issue.\nThe issue is also per file, reporting false or already fixed errors.</p>\n<p>Plus my expectations is when using the chat feature i should be giving the root of the folder and the plugin should handle which files should use for the response, rather than manually adding them. Doing this defeats the purpose.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1431ec5c-e2e1-4151-b51f-dcc60ee33503",
+      "name": "Crihan Alexandru",
+      "link": "/author/1431ec5c-e2e1-4151-b51f-dcc60ee33503",
+      "hubLogin": "crihan.f.alexandru",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1431ec5c-e2e1-4151-b51f-dcc60ee33503",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126551,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759312459000",
+    "comment": "<p>Why it is becoming so bad ? UI is inconsistent, buggy and keeps dropping results</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0bbfdb8f-d0f5-4fd6-b6bf-0afc35675f28",
+      "name": "Paweł Kondzior",
+      "link": "/author/0bbfdb8f-d0f5-4fd6-b6bf-0afc35675f28",
+      "hubLogin": "pawel.7",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0bbfdb8f-d0f5-4fd6-b6bf-0afc35675f28",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126537,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759305563000",
+    "comment": "<p>代码分析直接卡住了</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "8a5f059d-8abf-4cad-97f1-0a0a1138cbdb",
+      "name": "bbblllllocck",
+      "link": "/author/8a5f059d-8abf-4cad-97f1-0a0a1138cbdb",
+      "hubLogin": "bbblllllocck",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8a5f059d-8abf-4cad-97f1-0a0a1138cbdb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126523,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759296674000",
+    "comment": "<p>해당 플러그인은 마이크로소프트에서 악의적으로 개발했다는 의심이 들 정도입니다. 마치 vscode 로 넘어오라는 듯이 말이죠</p>\n<ol>\n<li>매우 심각한 문제입니다. 메모리 누수가 심합니다. 때문에 lint 같은 것들이 깨집니다. 플러그인을 삭제하면 원래대로 돌아옵니다.</li>\n<li>결과물이 vscode 보다 좋지 않습니다. (4번과 연관되는 것 같습니다)</li>\n<li>vscode 보다 에러 빈도가 높습니다.</li>\n<li>copilot-instructions.md 파일 같은 지침 파일들을 간헐적으로 기본으로 읽지 못해 수동으로 파일을 지정해줘야 합니다.(지정하지 않으면 결과물이 좋지 않습니다)</li>\n<li>당연하지만 vscode 보다 최신 기능 반영이 느립니다</li>\n</ol>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "c6b557d0-5369-4d63-bf80-7d714f766a94",
+      "name": "김중엽",
+      "link": "/author/c6b557d0-5369-4d63-bf80-7d714f766a94",
+      "hubLogin": "wndduq0000",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c6b557d0-5369-4d63-bf80-7d714f766a94",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126476,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759227459000",
+    "comment": "<p>It almost feels that Microsoft built this plugin to severely hamper JetBrains as a competitor in the IDE space.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "f945da85-e8a6-4545-a64c-747d9b2b7e06",
+      "name": "Bas van Welzen",
+      "link": "/author/f945da85-e8a6-4545-a64c-747d9b2b7e06",
+      "hubLogin": "bwelzen",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f945da85-e8a6-4545-a64c-747d9b2b7e06",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 8,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126450,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759200517000",
+    "comment": "<p>It became extremely bad over the last month; it's just messing up all the code, even without asking anything. Probably time to move to VSCode or other IDE with a properly done integration.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "59e41fd3-5afa-42de-8509-886bf6eff391",
+      "name": "Laurent Le Graverend",
+      "link": "/author/59e41fd3-5afa-42de-8509-886bf6eff391",
+      "hubLogin": "laurentlg",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/59e41fd3-5afa-42de-8509-886bf6eff391",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126420,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759157335000",
+    "comment": "<p>Péssimo no Intellij, perde contexto, consome CPU e Memória, trava o Code Inspections, tenho que fechar o chat e abrir outro várias vezes ao dia. Testei ele no Visual Studio e parece não ter esses problemas, poderiam deixar o do Intellij exatamente igual ao do Visual Studio que já seria bem melhor.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "a4bfaa89-93b2-4968-9681-493b1ee6f2c9",
+      "name": "douglas.cruz",
+      "link": "/author/a4bfaa89-93b2-4968-9681-493b1ee6f2c9",
+      "hubLogin": "Douglas_Cruz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a4bfaa89-93b2-4968-9681-493b1ee6f2c9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126378,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1759129306000",
+    "comment": "<p>Not up to par with vscode</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "911775a5-af00-403f-8773-4245e7ca9863",
+      "name": "guillaumetako",
+      "link": "/author/911775a5-af00-403f-8773-4245e7ca9863",
+      "hubLogin": "Guillaume_Tako",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/911775a5-af00-403f-8773-4245e7ca9863",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126257,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758890302000",
+    "comment": "<p>Can't install it, I get an unhelpful error message a la <code>oopsie woopsie, something went wrong</code></p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2723729a-3502-4876-97d3-5c82018d5749",
+      "name": "Marcel Schramm",
+      "link": "/author/2723729a-3502-4876-97d3-5c82018d5749",
+      "hubLogin": "Bios-Marcel",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2723729a-3502-4876-97d3-5c82018d5749",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126234,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758870368000",
+    "comment": "<p>Often errors and crashes and does not work, just don't get any info, just some standard error messages. 50% of the time it does not work properly, one of the worst plugins I have seen.</p>\n<p>Microsoft product at it's best...</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "565eb7a1-8eed-4421-b251-a749f036809b",
+      "name": "toby.herrmann",
+      "link": "/author/565eb7a1-8eed-4421-b251-a749f036809b",
+      "hubLogin": "Tobias_Herrmann",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/565eb7a1-8eed-4421-b251-a749f036809b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126171,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758784657000",
+    "comment": "<p>crash everywhere, always restore file status from some strange cache, and terrible file diff UI feature. I don't recommand personal pay for this.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "8f867aa7-9e10-4226-aeb6-a87057a53959",
+      "name": "jian wilson",
+      "link": "/author/8f867aa7-9e10-4226-aeb6-a87057a53959",
+      "hubLogin": "wellxion.1",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/8f867aa7-9e10-4226-aeb6-a87057a53959",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126142,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758733745000",
+    "comment": "<p>This has to be one of the worst plugins I have seen.</p>\n<p>Every update seems to break something which had been fixed one update before.\nThis time:</p>\n<ol>\n<li>copilot-instructions.md is being ignored by every single prompt.</li>\n<li>MCPs, though the settings menu works again, for now, are not being loaded and can't be used.</li>\n<li>Though you can now create prompt files, they will NOT be used or even acknowledged by copilot.</li>\n</ol>\n<p>Add to that the fact that it lags so far behind the features provided in VS Code one can only wonder if the developers are purposfully breaking this plugin to try to boost the VS Code usage.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "ee51264b-35d5-428a-83bc-cc8e1ba7c03a",
+      "name": "u.k",
+      "link": "/author/ee51264b-35d5-428a-83bc-cc8e1ba7c03a",
+      "hubLogin": "Urs_Kröll.shwp",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ee51264b-35d5-428a-83bc-cc8e1ba7c03a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126119,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758720727000",
+    "comment": "<p>Initially, Gemini became useless after the 2025.2.2 update, both in Clion and WebStorm. Even the latest Gemini update didn't help.\nAnd yesterday, Copilot became useless. It just runs a task, loading without stopping, then moves on to another task, while the previous one didn't do anything, and so on endlessly.\nThis is terrible, do something!!!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "96e15b0b-7e55-4b88-8a74-0c4423199b24",
+      "name": "Kuzjaaaa",
+      "link": "/author/96e15b0b-7e55-4b88-8a74-0c4423199b24",
+      "hubLogin": "kuzjayo87",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/96e15b0b-7e55-4b88-8a74-0c4423199b24",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126110,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758711083000",
+    "comment": "<p>I have macbook M2 Pro but when I use chat feature of Github copilot, It starts consuming CPU resource heavily. It heats up my machine. Laptop's CPU generally do not need fan based cooling in my coding flows, but when I start using this extension it needs fan based cooling.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "94c3a32b-293b-490e-8fd4-7a44f14fd45c",
+      "name": "dharmilvaghasia3675",
+      "link": "/author/94c3a32b-293b-490e-8fd4-7a44f14fd45c",
+      "hubLogin": "Dharmil_Mukeshbhai_Vaghasiya",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/94c3a32b-293b-490e-8fd4-7a44f14fd45c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126109,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758710927000",
+    "comment": "<p>Remote ssh mode sucks</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "ffc4ae13-dc3f-4a7a-a52a-6fe795c13b41",
+      "name": "Jinwei Rowe",
+      "link": "/author/ffc4ae13-dc3f-4a7a-a52a-6fe795c13b41",
+      "hubLogin": "luojinwei.1",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ffc4ae13-dc3f-4a7a-a52a-6fe795c13b41",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126107,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758708240000",
+    "comment": "<p>Currently, it's not possible to add the entire code base to the chat, which is quite unfortunate</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "e153a261-ec67-4ca3-81df-60342f8034e7",
+      "name": "Francesco D'Aquila",
+      "link": "/author/e153a261-ec67-4ca3-81df-60342f8034e7",
+      "hubLogin": "pampua",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/e153a261-ec67-4ca3-81df-60342f8034e7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126097,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758701646000",
+    "comment": "<p>Copilot constantly hanging on \"Working\" in all modes (Ask, Edit, Agent); integration with Jetbrains MCP server is not working well</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "3bc91f23-7446-4c07-9fc2-de31e099254c",
+      "name": "serhii.shupilo",
+      "link": "/author/3bc91f23-7446-4c07-9fc2-de31e099254c",
+      "hubLogin": "Serhii_Shupilo",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/3bc91f23-7446-4c07-9fc2-de31e099254c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126062,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758663196000",
+    "comment": "<p>I'm Using Github Copilot Pro but maximum time it shows this error \"\nOpps, The token limit exceeded. try to short your prompt or start a new conversation.\"</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "c6eb7c82-ac35-4dc8-9721-d10c3a4f36ef",
+      "name": "Md Mojahid",
+      "link": "/author/c6eb7c82-ac35-4dc8-9721-d10c3a4f36ef",
+      "hubLogin": "mojahid2021",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c6eb7c82-ac35-4dc8-9721-d10c3a4f36ef",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126060,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758661453000",
+    "comment": "<p>Currently a complete CPU hog, once a chat has opened.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "9c150894-467f-4541-b62a-494a06f4ac61",
+      "name": "Rinze de Laat",
+      "link": "/author/9c150894-467f-4541-b62a-494a06f4ac61",
+      "hubLogin": "biermeester",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/9c150894-467f-4541-b62a-494a06f4ac61",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 8,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126034,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758631636000",
+    "comment": "<p>Copilot works well in PhpStorm when it’s running – completions are smart and helpful. But it often logs me out and asks to re-login with GitHub, which is frustrating. It works only a few times, but most of the time it just shows the login button again. Very frustrating. Needs a stable login/session fix.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "cf95d154-7fe8-416f-87d1-0ae30be6f9d9",
+      "name": "Sajjad Ali",
+      "link": "/author/cf95d154-7fe8-416f-87d1-0ae30be6f9d9",
+      "hubLogin": "sajjad-mascot",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/cf95d154-7fe8-416f-87d1-0ae30be6f9d9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 126025,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758620488000",
+    "comment": "<p>Since yesterday I'm not able to use the plugin anymore, because I can't even login.\nBefore it was changing the format of my prompt, making it harder to read back the conversation. Also a lot of hallucinations being completely wrong or creating loops.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "cb1a9e8a-d294-4e33-b2bd-bf692d7bde1b",
+      "name": "jorijn",
+      "link": "/author/cb1a9e8a-d294-4e33-b2bd-bf692d7bde1b",
+      "hubLogin": "Jorijn_Lamberink",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/cb1a9e8a-d294-4e33-b2bd-bf692d7bde1b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 125979,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758552162000",
+    "comment": "<p>I just upgraded the highest level of subscription service a few days ago, but now Claude related models are not allowed to be used, so this plugin is now completely unusable, without any signs of making such a change, the garbage company will never be fooled again</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "259f6af1-006f-4281-b8ae-b0671e975939",
+      "name": "zhaowencai",
+      "link": "/author/259f6af1-006f-4281-b8ae-b0671e975939",
+      "hubLogin": "zhaowencai",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/259f6af1-006f-4281-b8ae-b0671e975939",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 125974,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758548854000",
+    "comment": "<p>Only working way I found is this:</p>\n<p>Open the project in VS Code, let Copilot fix bigger chunks automatically (multi-file edits, commands).\nThen switch back to Android Studio to get instant error detection and polish the code.</p>\n<p>This way you avoid fighting the IntelliJ plugin’s preview limitations.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "6c44fe3c-5456-40fc-84dc-0b05746a310f",
+      "name": "Manish Raj Kamal",
+      "link": "/author/6c44fe3c-5456-40fc-84dc-0b05746a310f",
+      "hubLogin": "mraj773929",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6c44fe3c-5456-40fc-84dc-0b05746a310f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 125966,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758545869000",
+    "comment": "<p>The PHPStorm implementation of GitHub Copilot exhibits a delay in receiving updates compared to the VS Code extension. Specifically, the Grok Fast Code model, currently available in the VS Code extension, has not yet been implemented in PHPStorm, despite a waiting period of approximately twenty days.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "6a2c9742-4e1b-4925-be7a-568988f82dc0",
+      "name": "te23051",
+      "link": "/author/6a2c9742-4e1b-4925-be7a-568988f82dc0",
+      "hubLogin": "MD_Àrmanul_Islam",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6a2c9742-4e1b-4925-be7a-568988f82dc0",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 125954,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758534836000",
+    "comment": "<p>Don't pay for this.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "db2aaf05-d5d0-4d39-b428-244e075d33d0",
+      "name": "Jens Radtke",
+      "link": "/author/db2aaf05-d5d0-4d39-b428-244e075d33d0",
+      "hubLogin": "jens.15",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/db2aaf05-d5d0-4d39-b428-244e075d33d0",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 125939,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758516123000",
+    "comment": "<p>Each update introduces bugs so blatant it is clear they have no QA or any sort of testing. Pretty sure it is mostly vibe-coded. I'm paying for this shit!!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "6daab096-d286-4aa7-a662-31d03e694b9e",
+      "name": "Coosanta",
+      "link": "/author/6daab096-d286-4aa7-a662-31d03e694b9e",
+      "hubLogin": "Coosanta17",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6daab096-d286-4aa7-a662-31d03e694b9e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 125907,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1758428350000",
+    "comment": "<p>It response incomplete and stop prematurely.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot",
+      "link": "/plugin/17718-github-copilot"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1ddc2b7e-27e9-4485-972c-742dfd7f423d",
+      "name": "Ros Udom",
+      "link": "/author/1ddc2b7e-27e9-4485-972c-742dfd7f423d",
+      "hubLogin": "oudom.ever",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1ddc2b7e-27e9-4485-972c-742dfd7f423d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  }
+]
