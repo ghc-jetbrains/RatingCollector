@@ -1,0 +1,1403 @@
+[
+  {
+    "id": 128957,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1763043207000",
+    "comment": "<p>all the tools fail and the ai has to resort to reading files via the terminal</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "55f2d8fd-78fd-4998-9f09-e901c68dd0a0",
+      "name": "wenig-code",
+      "link": "/author/55f2d8fd-78fd-4998-9f09-e901c68dd0a0",
+      "hubLogin": "wenig-code",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/55f2d8fd-78fd-4998-9f09-e901c68dd0a0",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128947,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1763028805000",
+    "comment": "<p>Doesn't Work 1.5.60-243</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "f931ea2e-1a88-4e11-bfff-79fd589d130b",
+      "name": "Peter bryan Susse",
+      "link": "/author/f931ea2e-1a88-4e11-bfff-79fd589d130b",
+      "hubLogin": "p6345uk",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f931ea2e-1a88-4e11-bfff-79fd589d130b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 3,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128931,
+    "rating": 5,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1763018431000",
+    "comment": "<p>Even the JB platform is totally shit, GitHub got a cool implementation for AI coding.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "73f66428-9fa2-4654-a83c-43c3cb313a3e",
+      "name": "Carry",
+      "link": "/author/73f66428-9fa2-4654-a83c-43c3cb313a3e",
+      "hubLogin": "744352682",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/73f66428-9fa2-4654-a83c-43c3cb313a3e",
+      "personalVendorId": 9106,
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 3
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128919,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1763001652000",
+    "comment": "<p>太傻比了，老把文件格式弄出错。</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2bc8c715-322a-4e34-b9e1-13c14c2e301c",
+      "name": "Edocevol",
+      "link": "/author/2bc8c715-322a-4e34-b9e1-13c14c2e301c",
+      "hubLogin": "edocevol",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2bc8c715-322a-4e34-b9e1-13c14c2e301c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128906,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762985391000",
+    "comment": "<p>The agent mode does not work really at all. It won't edit my files. Junie is 100x better even though it is far slower and burns up credits like no tomorrow.</p>\n<p>Makes me wonder if there's some sort of deal to intentionally make GitHub Copilot terrible so that we purchase more Junie credits? Hmmmmm.....</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "cf25707e-f8e7-4c75-a38b-c9561776da19",
+      "name": "Kelden Mayer",
+      "link": "/author/cf25707e-f8e7-4c75-a38b-c9561776da19",
+      "hubLogin": "mayerkel",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/cf25707e-f8e7-4c75-a38b-c9561776da19",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128900,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762966321000",
+    "comment": "<p>It's great that I have a plugin for Copilot for Rider, but unfortunately, the plugin for Rider seems to receive little attention from the GitHub Dev Team. Agent mode crashes frequently, leaving files in a state where they cannot be compiled. Others have already pointed out that the user interface for adding files is buggy and always tries to add the currently selected file. Most of the features that are available for the Visual Studio plugin are missing... I pay for Copilot and feel like a second-class citizen.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "7947ce98-a14c-41a6-8906-a774c48445c1",
+      "name": "Günther Kössler",
+      "link": "/author/7947ce98-a14c-41a6-8906-a774c48445c1",
+      "hubLogin": "gukoessler",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/7947ce98-a14c-41a6-8906-a774c48445c1",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128873,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762943361000",
+    "comment": "<p>Sadly this is very bad comparing with VSCode.\nMCP just don't work, there is no way to use one. Not only because configuration file doesn't have an UI, that's even acceptable, but even if you crack the right configuration, and have a MCP server ready to be called, it's just ignored. I understand that they have their own solution, but nowadays using copilot is very often non negotiable. I hope they fix it sooner rather than later</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1a3ec0b8-474c-4296-9ee0-105aada6e114",
+      "name": "Luca Stucchi",
+      "link": "/author/1a3ec0b8-474c-4296-9ee0-105aada6e114",
+      "hubLogin": "LucaStucchi",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1a3ec0b8-474c-4296-9ee0-105aada6e114",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128872,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762943350000",
+    "comment": "<p>Idem, I not even can change files in agent mode.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "5d33363a-bc0d-4db4-b28b-10eec9855bf7",
+      "name": "tommyblink182",
+      "link": "/author/5d33363a-bc0d-4db4-b28b-10eec9855bf7",
+      "hubLogin": "Edoardo_Monti",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/5d33363a-bc0d-4db4-b28b-10eec9855bf7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128871,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762943150000",
+    "comment": "<p>I not even can change files in agent mode, it just produces errors and burns through tokens, something of the worst piece of software I ever used. Thanks to my company which forces me to use that one....</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "565eb7a1-8eed-4421-b251-a749f036809b",
+      "name": "toby.herrmann",
+      "link": "/author/565eb7a1-8eed-4421-b251-a749f036809b",
+      "hubLogin": "Tobias_Herrmann",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/565eb7a1-8eed-4421-b251-a749f036809b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128861,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762936217000",
+    "comment": "<p>do not accept instructions or randomly ignores them,\nignores terminal output, and running locally usually does not work (terminal hungs)\nUI does not allow to reference to MCP e.g. to terminal output like in VSC,\nMCP are not working, and hard to guess why,\nauthorization on some addresses much different domain than while replying (our IT had problem to recognize which to allow to be able to authorize)</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "f11a35d9-7b16-48b4-a8be-7340ecdc0c4c",
+      "name": "artur-kozminski",
+      "link": "/author/f11a35d9-7b16-48b4-a8be-7340ecdc0c4c",
+      "hubLogin": "artur-kozminski",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f11a35d9-7b16-48b4-a8be-7340ecdc0c4c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128821,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762864178000",
+    "comment": "<p>11/11/2025 still can not read output of command in terminal.\nShame.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "741b6305-08bc-4c0f-99f2-c7d021a2ac00",
+      "name": "Ruben Buron",
+      "link": "/author/741b6305-08bc-4c0f-99f2-c7d021a2ac00",
+      "hubLogin": "ruben.buron",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/741b6305-08bc-4c0f-99f2-c7d021a2ac00",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128782,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762829590000",
+    "comment": "<p>breaks every update, please improve the reliability</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "c71206ce-c76c-4ee3-a03f-54c4149af28a",
+      "name": "Jonathan Jaurigue",
+      "link": "/author/c71206ce-c76c-4ee3-a03f-54c4149af28a",
+      "hubLogin": "jonah1825",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c71206ce-c76c-4ee3-a03f-54c4149af28a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128755,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762781515000",
+    "comment": "<p>Overall usability is trash. Compared to vscode where the experience is very smooth. I am stucked with the \"Retrieving GitHub Device Code\" just like everyone else. It seems JetBrains did it on purpose just to promote the usage of their native AI built in plugin, which I'll unfortunately try to use.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0ea2fb24-d524-464d-b236-dd4cb9738970",
+      "name": "Marcello Guimarães",
+      "link": "/author/0ea2fb24-d524-464d-b236-dd4cb9738970",
+      "hubLogin": "marcelloguimaraes",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0ea2fb24-d524-464d-b236-dd4cb9738970",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 1
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128744,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762767778000",
+    "comment": "<p>was this written using GitHub Copilot?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "29e83c1f-172e-45e2-93cc-8fce5e48fd3f",
+      "name": "filip-at-sbb",
+      "link": "/author/29e83c1f-172e-45e2-93cc-8fce5e48fd3f",
+      "hubLogin": "filip-at-sbb",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/29e83c1f-172e-45e2-93cc-8fce5e48fd3f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128710,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762692831000",
+    "comment": "<p>It's impossible to configure an MCP, the screen keeps loading indefinitely.\nDocumentation on guidelines is poor.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "d881f8bd-1b3c-438d-a5e0-adbcbea64da7",
+      "name": "Ricardo Baltazar",
+      "link": "/author/d881f8bd-1b3c-438d-a5e0-adbcbea64da7",
+      "hubLogin": "ricardobchaves6",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d881f8bd-1b3c-438d-a5e0-adbcbea64da7",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128706,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762657175000",
+    "comment": "<p>Really oweful! What a shit to use in PyCharm compared with smoothed completion and context understanding in VS Code!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "d50fc203-595b-45b0-9050-5e776caf0761",
+      "name": "sherlock_nolan",
+      "link": "/author/d50fc203-595b-45b0-9050-5e776caf0761",
+      "hubLogin": "羽_张",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d50fc203-595b-45b0-9050-5e776caf0761",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128703,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762640420000",
+    "comment": "<p>It just sucks that you basically have no control over the plugin, and the performance is so noticeable. It just keeps showing unneeded features in your face that you have to jump through hoops to disable.\nFor example, if you highlight some code, it will always show you a gutter icon for Copilot options, and you can't even disable it or even the \"Code review\" feature.</p>\n<p>Completions work great, but the chat and the plugin customization are bad, not to mention that the copy/paste functions don't even work properly on macOS.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "c014212b-02cf-4e1d-8d06-905f83018ddb",
+      "name": "Luka Luković",
+      "link": "/author/c014212b-02cf-4e1d-8d06-905f83018ddb",
+      "hubLogin": "lukalukovic30",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c014212b-02cf-4e1d-8d06-905f83018ddb",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128702,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762640254000",
+    "comment": "<p>Borderline unusable. It cannot read any terminal output of PyCharm, cannot interact with any registered MCP tools (as opposed to: MCP servers) and basically resends all terminal commands until the original command finally finishes, burning up all my API credits. Horrible quality.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "37e8cce1-abcb-4ccd-933d-d0aea2fa93e1",
+      "name": "Andreas Buschka",
+      "link": "/author/37e8cce1-abcb-4ccd-933d-d0aea2fa93e1",
+      "hubLogin": "Andreas.Buschka",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/37e8cce1-abcb-4ccd-933d-d0aea2fa93e1",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128698,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762616185000",
+    "comment": "<p>It's pretty obvious Jetbrains made some sort of deal with Github on this. Compared to copilot in vscode this plugin is absolute trash... It has no ability to bring the entire codebase in scope and it will not read files that are read only (no perforce integration)... The AI assistant is better, but that tool is nowhere near as good as copilot when its made well. Fix it please!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "ec98e099-8648-4f41-b506-464694e0e81f",
+      "name": "jajohnson.pro",
+      "link": "/author/ec98e099-8648-4f41-b506-464694e0e81f",
+      "hubLogin": "Jerami_Johnson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/ec98e099-8648-4f41-b506-464694e0e81f",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128681,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762543419000",
+    "comment": "<p>Worked <em>ok</em> for one day, now, no matter what mode I have selected, it acts as if it's in chat mode, not agent mode. Even after restarting the editor..</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "74903637-4356-49c2-a6bb-d95ac7d5d91c",
+      "name": "instance.id",
+      "link": "/author/74903637-4356-49c2-a6bb-d95ac7d5d91c",
+      "hubLogin": "instanceid",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/74903637-4356-49c2-a6bb-d95ac7d5d91c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 4,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128677,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762528013000",
+    "comment": "<p>Works but has many UX bugs, some editors switch to presentation mode when the agent updated a file so the user can't see the actual file change</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "7ddccb4c-9d50-4c5b-bf7b-5611b79dbc5a",
+      "name": "ueli.kistler",
+      "link": "/author/7ddccb4c-9d50-4c5b-bf7b-5611b79dbc5a",
+      "hubLogin": "Ueli_Kistler",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/7ddccb4c-9d50-4c5b-bf7b-5611b79dbc5a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128675,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762521238000",
+    "comment": "<p>Buggiest plugin in JetBrains ecosystem, and thats something. Autocomplete is completely broken, but even without it it produces soo many errors.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0c2d69e1-7669-4865-8f06-c98537b0f238",
+      "name": "Michal",
+      "link": "/author/0c2d69e1-7669-4865-8f06-c98537b0f238",
+      "hubLogin": "Dvořák",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0c2d69e1-7669-4865-8f06-c98537b0f238",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128674,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762519511000",
+    "comment": "<p>Since they have their own AI solution—which is significantly more expensive—the Copilot integration in JetBrains’ IDEs has been problematic. I have to downgrade every time just to use it.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "11e228f6-19ef-4e61-a00f-23d63a4ffc8e",
+      "name": "AlexGabrielC",
+      "link": "/author/11e228f6-19ef-4e61-a00f-23d63a4ffc8e",
+      "hubLogin": "AlexGabrielC",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/11e228f6-19ef-4e61-a00f-23d63a4ffc8e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128603,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762426242000",
+    "comment": "<p>switched mode on agent but runs and processing prompt in ask mode</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "94f1afa9-b731-4a61-afff-a53eecb1efa4",
+      "name": "MaciejN",
+      "link": "/author/94f1afa9-b731-4a61-afff-a53eecb1efa4",
+      "hubLogin": "mapic",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/94f1afa9-b731-4a61-afff-a53eecb1efa4",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 8,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128595,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762420598000",
+    "comment": "<p>Latest nightly update broke agent mode, so whatever you want to do runs in ask/chat mode.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "658a89bc-bf67-4d89-a0d0-9f38ca96e463",
+      "name": "Darko Krišan",
+      "link": "/author/658a89bc-bf67-4d89-a0d0-9f38ca96e463",
+      "hubLogin": "dariusiii",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/658a89bc-bf67-4d89-a0d0-9f38ca96e463",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 7,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128589,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762414543000",
+    "comment": "<p>It is constantly broken. It has been weeks since integration is broken, on each updates, I still need to revert to an old version to get it to start.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "d4b23646-db76-4a93-9e03-59cd479762c9",
+      "name": "Mathieu Malaterre",
+      "link": "/author/d4b23646-db76-4a93-9e03-59cd479762c9",
+      "hubLogin": "Mathieu-Malaterre-Clario",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d4b23646-db76-4a93-9e03-59cd479762c9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128576,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762378037000",
+    "comment": "<p>I hate vs code and love Jetbrains IDEs, with Classic UI of course :)</p>\n<p>But this plugin works very good in vscode, as other people noted.</p>\n<p>Here, in Jetrains IDEs it is a kind of joke. It makes more mistakes than VSCode, and if you try to revert changes, it can mess up your codebase and break files.</p>\n<p>I hate UI in vscode, I lose productivity there, but have to use both IDEs, vscode for running large GPT tasks.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "f7b19114-faa5-4a25-a7a4-221abeb16d03",
+      "name": "V T",
+      "link": "/author/f7b19114-faa5-4a25-a7a4-221abeb16d03",
+      "hubLogin": "trnjnet",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/f7b19114-faa5-4a25-a7a4-221abeb16d03",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128565,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762359043000",
+    "comment": "<p>There are some issues:</p>\n<ol>\n<li>does not recognize several modules in multi module maven project as a workspace, as a result cannot find required files and works only with one module (e.g. in my case it's a data migration sources). There is no settings to configure it.</li>\n<li>Multiple crashes during the day.</li>\n<li>In a light theme selecting the text in copilot window is not highlighted.\nAlso it's not possible to set a default model. It always resets to different one when creating a new chat.</li>\n</ol>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0018968a-dfcd-42f0-b812-0fe42254a8ff",
+      "name": "Nikita",
+      "link": "/author/0018968a-dfcd-42f0-b812-0fe42254a8ff",
+      "hubLogin": "GraninNikita",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0018968a-dfcd-42f0-b812-0fe42254a8ff",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128560,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762351241000",
+    "comment": "<p>Currently it just fails:\n\"Error: Failed to load jobs: Unexpected error when search coding agent jobs\"</p>\n<p>Before, it just couldn't edit any files, the agent went back and forth until it decided to dump the changed source code.\nYou should just use VS Code</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "c6d51d50-e665-4b7f-a933-7f7acc19aa15",
+      "name": "Zsombor",
+      "link": "/author/c6d51d50-e665-4b7f-a933-7f7acc19aa15",
+      "hubLogin": "zsombor.1",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c6d51d50-e665-4b7f-a933-7f7acc19aa15",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128539,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762344239000",
+    "comment": "<p>azmcp process is killing my IDE and whole MacOS on M1. This is the first thing after 5 years which starts my fans in my macbook!\nThe worst part is it starts happening randomly, even while I'm not using Intellij and the IDE is only minimised.\nIt's not IDE related problem, I have identical experience on VS Code</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "a0ed557b-bc10-432d-a0fd-a1aba738aa86",
+      "name": "Pops",
+      "link": "/author/a0ed557b-bc10-432d-a0fd-a1aba738aa86",
+      "hubLogin": "ash.the.dark",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/a0ed557b-bc10-432d-a0fd-a1aba738aa86",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128469,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762320424000",
+    "comment": "<p>There are bugs everywhere especially with code completion, where a weird, inexplicable window pops up and can’t even be automatically closed or hidden. I’m starting to wonder if it’s actually been tested at all!</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1623fcc5-4973-4196-b935-1d8eeb7c4a7d",
+      "name": "XiaoFeizai",
+      "link": "/author/1623fcc5-4973-4196-b935-1d8eeb7c4a7d",
+      "hubLogin": "XiaoFeizai",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1623fcc5-4973-4196-b935-1d8eeb7c4a7d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128431,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762263811000",
+    "comment": "<p>Poor integration, compared to what's available to VS code users.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "9ea37aa1-d69d-48ba-aac6-e1fb4319d33d",
+      "name": "kas",
+      "link": "/author/9ea37aa1-d69d-48ba-aac6-e1fb4319d33d",
+      "hubLogin": "kas-aviv",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/9ea37aa1-d69d-48ba-aac6-e1fb4319d33d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128343,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762178231000",
+    "comment": "<p>Unable to log into Copilot plugin when using IntelliJ build 243 or newer (like build 252).\nI had to downgrade Copilot to version 1.5.52-243 and IntelliJ to build 243 (from 252) to make Copliot work with IntelliJ. The newer versions (1.5.58-243 and 1.5.59-243) of Copilot does not mention login in release notes, so I can't upgrade neither Copilot nor IntelliJ. Also integration with IntelliJ should be better but this may be better in the versions of the plugin I am unable to use.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "b1fc7d36-c1cb-4469-abf1-37ca89cf7226",
+      "name": "klaus.stafto",
+      "link": "/author/b1fc7d36-c1cb-4469-abf1-37ca89cf7226",
+      "hubLogin": "Klaus_Stafto",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/b1fc7d36-c1cb-4469-abf1-37ca89cf7226",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128338,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762164239000",
+    "comment": "<p>Unable to login in....</p>\n<p>Stuck on \"Retrieve GitHub Device Code\"</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "6bbc73fa-1ba7-409e-9621-c5b3c7a3ca43",
+      "name": "Daniel Vazač",
+      "link": "/author/6bbc73fa-1ba7-409e-9621-c5b3c7a3ca43",
+      "hubLogin": "PsyChonek",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6bbc73fa-1ba7-409e-9621-c5b3c7a3ca43",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128312,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762111635000",
+    "comment": "<p>Common, fix the issues. Agent mode fails to run commands in terminal. Sometimes it even corrupts files! How can you deploy software without testing it?</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "eac295ad-17ed-4921-978a-4c8abaf2ed7a",
+      "name": "jakesmokie",
+      "link": "/author/eac295ad-17ed-4921-978a-4c8abaf2ed7a",
+      "hubLogin": "Ivan_Aiguzin.vggb",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/eac295ad-17ed-4921-978a-4c8abaf2ed7a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128296,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1762088373000",
+    "comment": "<p>Integration is horrible, keeps failing on the simplest requests.\nVS code for the same prompt generate answer/edit etc.\nThis plugin keeps failing.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "d9d2b2d8-563e-405b-a39d-e9569f1d1104",
+      "name": "Tomasz Cwik",
+      "link": "/author/d9d2b2d8-563e-405b-a39d-e9569f1d1104",
+      "hubLogin": "tomaszcwik2",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/d9d2b2d8-563e-405b-a39d-e9569f1d1104",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128237,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761922233000",
+    "comment": "<p>Almost good, at least by day to day basis with suggestions/auto-completion and primitive functionality is done right. Chat needs to be improve</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "99f92be1-076b-4f02-a667-504b6cd519f6",
+      "name": "Roman Fedorov",
+      "link": "/author/99f92be1-076b-4f02-a667-504b6cd519f6",
+      "hubLogin": "r.fedorov",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/99f92be1-076b-4f02-a667-504b6cd519f6",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128232,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761912274000",
+    "comment": "<p>Impressive how horrible this is for a paid product</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "6b4ac74a-148d-4f1e-ab98-84d49551221d",
+      "name": "hubert.dudowicz",
+      "link": "/author/6b4ac74a-148d-4f1e-ab98-84d49551221d",
+      "hubLogin": "Hubert_Dudowicz",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/6b4ac74a-148d-4f1e-ab98-84d49551221d",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128167,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761809895000",
+    "comment": "<p>Every release seems to break core functionality. This time, after pressing any character, the chat or agent editor loses focus, forcing you to click again with the mouse before typing the next character. If this plugin received even 5% of the time and attention given to the VSCode plugin, it would be legendary in the JetBrains ecosystem. It feels like the GitHub team intentionally frustrates developers to push them from JetBrains to VSCode. It’s disappointing that the JetBrains team has also failed to keep up with AI integration in their plugin.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 1,
+    "author": {
+      "id": "db039141-bbfc-42e1-9573-b36abe58057c",
+      "name": "Md. Tareq Mahmud",
+      "link": "/author/db039141-bbfc-42e1-9573-b36abe58057c",
+      "hubLogin": "tareqmahmud9",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/db039141-bbfc-42e1-9573-b36abe58057c",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 5,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128156,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761785508000",
+    "comment": "<p>Absolute piece of crap. When you enter the Edit mode, most of the time it doesn't let you pick a model, so you have to switch to another mode and go back to Edit again; it fails a lot with a dumb error message about not being able to parse the content, etc. Tabnine is a godsend in comparison. And cheaper.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "0b7e12d9-9685-4b6f-886f-aa687e028690",
+      "name": "Juan Carabali",
+      "link": "/author/0b7e12d9-9685-4b6f-886f-aa687e028690",
+      "hubLogin": "voltuer",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/0b7e12d9-9685-4b6f-886f-aa687e028690",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128139,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761758310000",
+    "comment": "<p>Never really worked properly. You can't even select snippets from the output anymore. This extension is really really terrible. I find myself os often copy pasting and using the browser AI instead of copilot because it just doesn't work</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1fdac833-e9c0-4bf3-ac56-65987079481b",
+      "name": "Alex Luca",
+      "link": "/author/1fdac833-e9c0-4bf3-ac56-65987079481b",
+      "hubLogin": "alex.luca",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1fdac833-e9c0-4bf3-ac56-65987079481b",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128127,
+    "rating": 3,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761746371000",
+    "comment": "<p>Works well when its working...but lots of crashes and seems to need reinstall after every update.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "c71206ce-c76c-4ee3-a03f-54c4149af28a",
+      "name": "Jonathan Jaurigue",
+      "link": "/author/c71206ce-c76c-4ee3-a03f-54c4149af28a",
+      "hubLogin": "jonah1825",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/c71206ce-c76c-4ee3-a03f-54c4149af28a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128107,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761722579000",
+    "comment": "<p>Very buggy</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "fbaf28f3-73b7-40b6-90c7-56721913e5d6",
+      "name": "Anders Jacobsen",
+      "link": "/author/fbaf28f3-73b7-40b6-90c7-56721913e5d6",
+      "hubLogin": "anderseddiejacobsen",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/fbaf28f3-73b7-40b6-90c7-56721913e5d6",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128043,
+    "rating": 0,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761651805000",
+    "comment": "<p>The whole thing just crashes the Westorm IDE as soon as it tries to write a file, I'm on the latest windows 11 and the latest update of the IDE, so I don't know what went wrong this plugin, the CPU hangs at 100%, and I have to forcefully close the IDE. NOTHING works.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "77af958d-ac4e-499f-a8c8-466183e7a5d9",
+      "name": "gabriel.werzner",
+      "link": "/author/77af958d-ac4e-499f-a8c8-466183e7a5d9",
+      "hubLogin": "G_W.lzml",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/77af958d-ac4e-499f-a8c8-466183e7a5d9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128033,
+    "rating": 2,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761641492000",
+    "comment": "<p>Crashes whenever I switch to a new project and the autocompletion is very annoying, giving random code not even related to my project. Chat can work sometimes on a good level, but it's too biased in it's own quality.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "dbfc2bd6-06f2-4bfa-908d-d904e68a26d8",
+      "name": "Tim Luigjes",
+      "link": "/author/dbfc2bd6-06f2-4bfa-908d-d904e68a26d8",
+      "hubLogin": "timluigjes",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/dbfc2bd6-06f2-4bfa-908d-d904e68a26d8",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128020,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761635248000",
+    "comment": "<p>Agent mode is useless, it just keeps creating .patch files and asks for permission to run the command.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "29b58622-2a61-410a-bf11-3993b40fb25e",
+      "name": "Niklas Eriksson",
+      "link": "/author/29b58622-2a61-410a-bf11-3993b40fb25e",
+      "hubLogin": "niklas.j.eriksson",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/29b58622-2a61-410a-bf11-3993b40fb25e",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 128017,
+    "rating": 5,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761633671000",
+    "comment": "<p>Love the new MCP integration. And fast response from engineer teams.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2a5d10da-e841-4b4e-ae92-3a079ca350e4",
+      "name": "刘铖",
+      "link": "/author/2a5d10da-e841-4b4e-ae92-3a079ca350e4",
+      "hubLogin": "liucheng.lcc",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2a5d10da-e841-4b4e-ae92-3a079ca350e4",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127996,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761578782000",
+    "comment": "<p>It never been good, and it's getting worse. Super slow, super stupid, sometimes it creates meaningless .patch files instead editing files. Sometimes wants to run some script to edit the file, and breaks the file. IDE is getting super slow when the plugin is opened.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "1f714651-ac7e-466d-99c9-42d2d8a478fc",
+      "name": "Jakub Pomykała",
+      "link": "/author/1f714651-ac7e-466d-99c9-42d2d8a478fc",
+      "hubLogin": "jpomykala",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/1f714651-ac7e-466d-99c9-42d2d8a478fc",
+      "showMarketoCheckbox": false
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 0,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127992,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761576367000",
+    "comment": "<p>So unbelievably buggy &amp; short-sighted, it makes it useless. Documentation atrocious too.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "2bd75416-5436-4d80-a6e6-b213f4d3e6b9",
+      "name": "Cormac Redmond",
+      "link": "/author/2bd75416-5436-4d80-a6e6-b213f4d3e6b9",
+      "hubLogin": "credmond85",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/2bd75416-5436-4d80-a6e6-b213f4d3e6b9",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 2,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  },
+  {
+    "id": 127985,
+    "rating": 1,
+    "isResolveRequested": false,
+    "resolveState": "INIT",
+    "cdate": "1761568369000",
+    "comment": "<p>Read and WRITE access is required to all of my private repos just to use the plugin? This is nothing short of insanity.</p>\n",
+    "plugin": {
+      "id": 17718,
+      "name": "GitHub Copilot - Your AI Pair Programmer",
+      "link": "/plugin/17718-github-copilot--your-ai-pair-programmer"
+    },
+    "repliesCount": 0,
+    "author": {
+      "id": "82a97606-2748-4665-ac85-67411b13300a",
+      "name": "Nate Rifkin",
+      "link": "/author/82a97606-2748-4665-ac85-67411b13300a",
+      "hubLogin": "nate.mvpc",
+      "icon": "https://hub.jetbrains.com/api/rest/avatar/82a97606-2748-4665-ac85-67411b13300a",
+      "showMarketoCheckbox": true
+    },
+    "vendor": false,
+    "votes": {
+      "positive": 1,
+      "negative": 0
+    },
+    "markedAsSpam": false
+  }
+]
